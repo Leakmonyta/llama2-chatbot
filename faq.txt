@@ -1,0 +1,187 @@
+Phillip Mobile FAQs
+1. What is Phillip Mobile?
+Phillip Mobile is an internet-based smart phone application provided by Phillip Bank, enabling the customers to process various bank transactions.
+
+2. What is Phillip Bank Plc?
+Phillip Bank Plc is a member of Phillip Capital Group, an integrated Asian financial house based in Singapore.
+
+3. How do I start using Phillip Mobile?
+Just download the Phillip Mobile app from App/Play Store.
+You can go to Phillip Bank’s nearest branch to create account then activate to Phillip mobile banking or you can create E-saving account through mobile banking.
+
+4. How do I register for Phillip Mobile?
+Registration for Phillip Mobile is simple and easy! Just follow the steps below:
+a. Enter your valid National ID/Passport No
+b. Enter your valid phone number
+c. Upon proceeding, you will receive an SMS, containing a confirmation code on your mobile number linked with your Phillip Bank account.
+d. Enter the confirmation code to validate the enrollment.
+e. Set your secret words
+f. Create your PIN
+g. Confirm your PIN
+h. Set up Fingerprint/FaceID (For your login ID)
+
+5. How to register E-Saving account?
+a. Click on “Open It”
+b. Enter Phone number
+c. Take photo of yourself
+d. Take your NID
+e. Scan your NID
+f. Fill In your address
+g. Click “Continue”
+h. Set up secret words
+i. Set up new PIN
+j. Enable biometric
+
+6. How do I get a Phillip Bank Account?
+Just go to any Phillip Bank branches with your National ID/Passport and register for Phillip Bank account!
+
+7. How do I link my Phillip Bank account to Phillip Mobile?
+You need to have a valid Phillip Bank Current or Savings Account in order to link to Phillip Mobile.
+Please see question #4
+
+8. How many Phillip Bank accounts can I link to my Phillip Mobile?
+There is no any limitation/The maximum number of accounts you can link to Phillip Mobile.
+
+9. What are the services I can use on Phillip Mobile?
+On Phillip Mobile, you can use the following financial services:
+a. Transfer to OWN account
+b. Transfer to Other PLB account
+b. Transfer Local Bank-FAST
+c. Transfer to Local Bank-BAKONG
+d. Transfer to Bakong Wallet
+e. Phone Top-Up
+f. Bills Payment
+g. E-Cash
+h. Cards (Virtual Master Card)
+i. Scan QR code (KHQR)
+
+10. How do I transfer to Own account
+a. Click “Transfer”
+b. Select from account
+c. Select to account
+d. Click “Transfer”
+e. Click “Confirm”
+
+11. How do I transfer money within Phillip Bank account via Phillip Mobile?
+To transfer money within Phillip Bank account, just follow these simple steps:
+a. Tap “Transfer” on the home screen
+b. Tap “Internal Fund Transfer”
+c. Choose your source account
+d. Enter or select beneficiary account
+e. Enter the amount you want to transfer
+f. Enter purpose
+g. Enter PIN to confirm the transaction
+
+12. How do I transfer money to Local Bank-FAST via Phillip Mobile?
+To local Bank-FAST is a fund transfer service to account at other bank/FI (as FAST Member) via FAST System initiated by the National Bank of Cambodia. Customer shall transfer with minimum amount 100 KHR and Maximum 40,000,000 KHR. To transfer money to local bank- FAST, just follow these simple steps:
+a. Tap “Transfer” on the home screen
+b. Select “To local bank-FAST”
+c. Select From Account
+d. Choose Receiver Bank
+e. Enter Beneficiary account number
+f. Enter Beneficiary Name
+g. Enter Amount
+h. Enter Purpose (Optional)
+i. Click “Confirm”
+j. Enter PIN to confirm the transaction
+
+13. How do I transfer to Local Bank-Bakong?
+To local bank-Bakong is a fund transfer service to account at other bank/FI (as Bakong member) via Bakong system initiated by National Banking of Cambodia. Minimum amount transfer is 0.01 USD/100KHR and maximum is 10,000 USD/40,000,000 KHR per transaction with maximum 50,000 USD/200,000,000KHR per day. To transfer to Local Bank- Bakong, just follow below simple steps:
+a. Click “Transfer”
+b. Select “To local bank-Bakong”
+c. Select from account
+d. Choose Receiver Bank
+e. Enter beneficiary account
+f. Enter Amount
+g. Enter Purpose (Optional)
+h. Click Transfer
+i. Click “Confirm”
+j. Enter PIN to confirm the transaction
+
+14. How do I transfer to Bakong Wallet
+a. Click “Transfer”
+b. Select from account
+c. Select “To Bakong Wallet”
+d. Enter Beneficiary account wallet
+e. Enter Amount
+f. Enter purpose
+g. Click “Transfer”
+h. Click “Confirm”
+i. Enter PIN to confirm the transaction
+
+15. How do I perform phone top-up?
+To top-up your phone, just follow these simple steps:
+a. Tap “Top-Up” on the home screen
+b. Select from account
+c. Enter the mobile number you want to top up
+d. Choose the amount
+e. Enter purpose (optional)
+f. Enter your PIN to confirm the transaction
+
+16. How do I pay my bills via Phillip Mobile?
+To pay your bills via Phillip Mobile, just follow these simple steps:
+a. Tap “Payment” on the home screen
+b. Click on such as “Internet and TV, Education, Insurance, Entertainment or Utilities” 
+c. Select the company you are paying to
+d. Select from account
+e. Enter Invoice no/customer no
+f. Enter the amount of payment (if applicable as some billers have fixed amounts)
+g. Enter purpose (optional)
+h. Click “Pay”
+i. Click “Confirm”
+j. Enter your PIN to confirm the transaction
+
+17. How do I apply for a personal loan via Phillip Mobile?
+To apply for a personal loan, just follow these simple steps:
+a. Tap “Apply Loan” on the home screen
+b. Enter valid information required in the Personal Loan Application Form.
+*After applying loan successfully, Phillip Bank staff will contact you as soon as possible
+
+18. There is no any balance in my Phillip Bank account, what should I do?
+You can visit any of Phillip Bank branches in order to deposit the money into your account or you can transfer from other Phillip bank account or other local bank account. You can also search for the nearest Phillip Bank branch by clicking “More” “Locator” on Phillip Mobile.
+
+19. I forgot the latest transaction on the Phillip Mobile. How can I view it again?
+To view transaction history you can tap on card in the home screen and you may click on account to switch to any account you want to view transaction.
+
+20. How do I change PIN on my Phillip Mobile?
+To change the PIN of your Phillip Mobile, just follow the simple step:
+a. Tap “Abbreviation” at the up left in amount screen
+b. Tap “Change PIN”
+c. Enter your Secret words
+d. Enter your new PIN
+e. Confirm your new PIN
+f. Press “Change”
+You will get a confirmation note that your PIN has successfully been changed
+
+21. How do I do if I forgot my secret words?
+Customer can either contact Phillip Bank contact center 086 930000/089 989 818 or visit the nearest Phillip Bank branch for further support.
+
+22. Is there an app notification on Phillip Mobile?
+Yes, you will receive a notification including financial updates or Phillip Bank latest announcement and promotions.
+
+23. For a joint account, can both signatories login Phillip Mobile through different devices?
+Yes, both customers of the joint account type “OR” can use and perform financial transactions via Phillip Mobile.
+*Please be noted that Phillip Mobile does not support for a joint account type “AND”.
+
+24. Do I need to inform the Bank if I change my mobile number?
+Yes, you are encouraged to update the Bank with your latest phone number to receive the Activation Code via SMS. This is one of the required procedure to secure mobile banking transactions.
+
+25. If I forgot my PIN, What should I do?
+Customer should contact Phillip Bank contact center 086 930 000/089 989 818 for further support to reset his/her own PIN. Once PIN is reset, customer is required to re-activate Phillip Mobile.
+
+26. How do I change the phone number linked to my Phillip Bank account?
+Customer is required to visit the nearest Phillip Bank branch with the original National ID/Passport and inform the branch staff to update phone number linked to Phillip Bank Account.
+
+27. If my Phillip Mobile account is locked, what should I do?
+Customer can either contact Phillip Bank contact center 086 930000/089 989 818 or visit the nearest Phillip Bank branch for further support.
+
+28. If my phone is lost or stolen while I have a Phillip Mobile, what should I do?
+Customer can either contact Phillip Bank contact center 086 930000/089 989 818 or visit the nearest Phillip Bank branch for further support.
+
+29. If I transfer the money to the wrong beneficiary, what should I do?
+Customer can either contact Phillip Bank contact center 086 930000/089 989 818 or visit the nearest Phillip Bank branch for further support.
+
+30. How can I contact the Phillip Bank contact center?
+You can contact Phillip Bank contact center, just follow the simple ways:
+a. Call to 086 930 000 or 089 989 818
+b. Chat to Phillip Bank Cambodia FaceBook page
