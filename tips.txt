@@ -1,0 +1,57 @@
+Security Tips
+At Phillip Bank, we prioritize your online safety and want to ensure that you are being cautious about all kinds of ever-changing cybersecurity threats so that you have a secure banking experience. Here are some security tips that will help reduce your exposure to those threats and provide you with a safer banking experience.
+
+Please note that Phillip Bank will never contact you or assign anyone on behalf of Phillip Bank to contact you via email, SMS,  or phone call to ask you for your confidential information such as bank account details, ATM or ID Card, username, password, One-Time Passwords (OTPs), or PIN. Be careful to avoid sharing this information with anyone.
+
+Mobile Banking
+1. Download from Trusted Sources:  Only download the Phillip Mobile banking app and other banking apps from trusted sources (App Store, Play Store, or AppGallery). 
+2. Monitor Banking Activity:  Regularly review your banking transactions and account statements.
+3. Review Notifications:  Pay attention to notifications for any transactions made with your Mobile Banking app.
+4. Report Lost or Stolen Devices:  Report to the bank immediately if your mobile device is lost or stolen to block access to your account.
+5. Avoid Public Wi-Fi:  Avoid using public Wi-Fi networks for mobile banking transactions.
+6. Keep Your Apps Updated:  Ensure your mobile operating system and banking apps are up to date.
+7. Secure Your Device:  Set up a PIN, Fingerprint, or Face ID to unlock your mobile device.
+8. Emergency Self-Service:  If you notice any suspicious activities on your mobile banking app, disable your access using our emergency self-service feature called "e-Banking Access" in our mobile banking app.
+Internet Banking
+1. Strong Passwords:  Use a strong and unique password for your online banking account.
+2. Secure Networks:  Avoid accessing your online banking from public or unsecured Wi-Fi networks.
+3. Keep Your Devices Updated:  Regularly update your computer and mobile devices with the latest security patches.
+4. Beware of Phishing:  Be cautious of phishing attempts that attempt to trick you into sharing your sensitive data or downloading software that can damage your computer.  Never share your banking credentials with unknown sources.
+5. Secure Environment:  Avoid conducting transactions on public computers or in public places where others can see your screen.
+6. Monitor Account Activity:  Regularly review your account activity for any unauthorized transactions.
+7. Use Antivirus Software:  Install trusted and up-to-date antivirus software on your devices.
+8. Avoid Suspicious Links:  Avoid clicking on suspicious links or downloading attachments from unknown sources.
+9. Logout Securely:  Always log out of your online banking session when you're done.
+10. Report Suspicious Activity:  Contact your bank immediately if you notice any suspicious activity or unauthorized access. 
+ATM
+1. Protect Your PIN:  Memorize your PIN and never share it with anyone.
+2. Change PIN Regularly:  Change your PIN frequently or when you receive suspicious notifications.
+3. Cover Keypad:  When entering your PIN at an ATM, cover the keypad to prevent others from detecting your PIN.
+4. Check for Suspicious Devices:  Look for suspicious devices or signs of tampering, such as loose parts, hidden cameras, or card slots. Report any findings to the bank immediately.
+5. Avoid Strangers' Assistance:  Do not accept help from strangers at the ATM who may attempt to steal your card or PIN information. Accept help only from assigned staff of Phillip Bank.
+6. Report Lost or Stolen Cards: If your ATM card is lost or stolen, report it to your bank immediately to prevent unauthorized usage.
+7. Review Statements: Regularly review your bank statements or transaction history to identify any unauthorized transactions.
+8. Review Notifications:  Pay attention to notification alerts for any transactions or account activities on your card.
+Virtual Mastercard
+1. Protect Card Details: Do not share your card number, expiration date, or CVV with anyone unless necessary and trusted.
+2. Use Secure Websites: Ensure that you are using secure and trusted websites for online transactions with your Mastercard.
+3. Set Transaction Limits: Limit your transactions by setting the maximum amount and number of daily transactions.
+4. Review Account Statements: Regularly review your account statements or transaction history to identify any unauthorized charges.
+5. Review Notifications: Pay attention to notifications for any transactions made with your Virtual Mastercard.
+6. Report Lost or Stolen Cards: If your Virtual Mastercard is lost or stolen, immediately report it to your bank to prevent unauthorized usage.
+7. Beware of Phishing: Be cautious of phishing attempts that try to trick you into sharing sensitive data and avoid clicking suspicious links or providing card information.
+Online Shopping
+1. Shop from Trusted Websites: Make your online purchases only from trusted and reputable websites.
+2. Ensure Secure Connection: Look for "https://" in the website's URL for a secure connection. URL’s beginning with “http://” are not secure.
+3. Strong Passwords: Use strong and unique passwords for your shopping accounts.
+4. Limit Personal Information: Avoid sharing unnecessary personal information during the purchase process.
+5. Keep Devices Updated: Keep your devices and software up to date with the latest security patches.
+6. Avoid Public Wi-Fi: Avoid making online purchases using public Wi-Fi networks.
+7. Review Privacy Policies: Review the website's privacy policy before making a purchase.
+8. Beware of Phishing: Be cautious of phishing attempts and suspicious emails asking for personal information.
+9. Monitor Statements: Regularly monitor your bank and credit card statements for any unauthorized charges.
+ 
+
+If you notice any suspicious activities on your ATM, Virtual Master Card, mobile banking app, or Internet Banking account, please contact our call centre team at (855)86 930 000 / 89 989 818 / 88 465 9999 (24/7) or reach out to us through our official Facebook page.
+
+ 
