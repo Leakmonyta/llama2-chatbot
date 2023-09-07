@@ -1,0 +1,2407 @@
+GENERAL TERMS AND
+CONDITIONS
+
+Effective 19 October 2022
+
+Version 4.0
+
+Contents
+
+Introduction
+
+1. Definitions
+
+ALL ABOUT ACCOUNTS
+2. Account management
+
+3. Using your account
+
+4. Understanding debit cards
+
+5. Your statements
+
+6. Using checks
+
+UNDERSTANDING FEES AND CHARGES
+
+7. Fees and charges
+
+ACCOUNTS SECURITY AND LIABILITY
+
+8. Security and liability for card and Online Banking Service usage
+
+9. Liability for unauthorized transactions
+
+OTHER IMPORTANT THINGS TO KNOW
+10. Changes to terms and conditions
+11. General matters
+
+12. Dispute Resolution
+
+30
+
+32
+
+33
+
+35
+
+36
+
+41
+INTRODUCTION
+
+These General Terms and Conditions ("GTC") are part of the agreement governing the use of the
+Bank's products and services, including accounts. The GTC applies when you accept to use the
+Bank's products and services by signing the forms or by giving your consent electronically.
+
+The GTC does not represent all terms and conditions under which our banking products and services
+are provided. There could be additional terms such as specific product and service terms and
+conditions, or conditions implied by law, or any other terms and conditions agreed by you in writing or
+electronically. If there is any discrepancy between this GTCs, and the specific terms and conditions
+of any product or service, the specific terms and conditions for the specific product or service will
+prevail.
+
+This booklet sets out the terms and conditions of your account and forms part of your contract with
+us. You are deemed to have agreed to be bound with these terms and conditions, on the earlier of
+when you first use your account or when you otherwise agree to these terms and conditions. We
+encourage you to read this document carefully or to seek legal advice when you apply to open an
+account with us or intend to make any transaction.
+
+Home < > ABA Bank | General Terms and Conditions
+1.
+
+‘ABA’ or ‘the Bank’
+
+‘Account’
+
+‘Account holder’
+
+‘Authorized signatory’
+
+‘Available balance’
+
+‘Business day’
+
+‘Code’
+
+‘Customer’
+
+‘Electronic equipment’
+or ‘Electronic terminal’
+
+You’, 'your’, ‘yours’
+
+‘We’, ‘us’, ‘our’, ‘ours’
+
+‘Operate’
+
+Person
+
+Value Date
+
+Home < >
+
+DEFINITIONS
+
+Refers to Advanced Bank of Asia Limited
+means any bank account opened at the Bank.
+
+means the person(s) in whose name an account is conducted and who is responsible
+for all transactions on the account.
+
+means the third party who is authorized to operate on the account.
+
+means the total balance in your account less any unsettled transactions plus any
+credit limit you may have on your account for accounts with overdraft arrangement.
+
+means any weekday when we are open for business rather than a public holiday.
+Saturday and Sunday are not classified as business days even though some branches
+may be open for business.
+
+means a PIN, ABA Online Banking access code, Online Banking password or any
+similar information which may be required in order to make electronic funds transfer
+transactions to or from accounts, and which the user is required to keep secret.
+
+Include ABA account holders and non-ABA account holders, who acquire one-off
+service of ABA. All customers are subject to different forms of due diligence
+
+means electronic machines (e.g. ATMs, cash deposit machines, POS terminals
+and terminals located at counters in branches), computers, telephones and other
+electronic appliances necessary to conduct banking operations.
+
+Refers to accountholder or authorized signatory
+Refers to Advanced Bank of Asia Limited
+
+Is defined as the followings (including, but not limited by):
+= Todraw, sign and endorse checks or instruments for payment.
+= To pay cash, checks, notes, drafts, orders and all other instruments.
+= Toopen and close accounts.
+
+= To apply for and receive discounts, loans, overdrafts, trade finance instruments,
+or other facilities with or without collateral.
+
+= To pledge and deposit any collateral for the repayment of indebtedness.
+= To receive statements and/or communication of any kind.
+
+= To give instructions whether by mail, e-mail, telephone, facsimile or otherwise
+and/or enter into contracts and agreements.
+
+Refers to individual/natural person or legal entity
+
+Refers to the date when a value of a transaction becomes effective. A value date may
+differ from the transaction date.
+
+ABA Bank | General Terms and Conditions
+ALL ABOUT ACCOUNTS
+
+Home < >
+2. ACCOUNT MANAGEMENT
+
+2.1. Opening of account
+
+Depending on the account type, you can request to open it online, or at a branch, or based on appointment with the
+bank staff. To open a new account you will need to:
+
+= Meet certain eligibility criteria and be able to prove your eligibility, if required; and
+
+= Supply certain documents and information to us, including your name, date of birth, address, telephone number,
+occupation.
+
+Under the National Bank of Cambodia's Law on Anti-Money Laundering and Combating the Financing of Terrorism,
+the Bank is required to identify the account owner (along with any authorized signatories and related persons on
+the account). You can meet the identification requirements by providing original and valid identity documentation to
+us. If you or any of the signatories to an account is not identified in accordance with the applicable law, or you fail to
+satisfy any of our due diligence requirements, the Bank will be entitled to take any action permitted under Cambodian
+law, including closing your account. If you are an existing customer, you must have already fulfilled the identification
+requirement so you do not need to do it again unless you are required to do so.
+
+In order to meet the Bank's regulatory and compliance obligations, the Bank must comply with any sanctions lists
+appropriate and applicable to Cambodia and any sanctions lists adopted by the Bank (collectively, the “Sanctions")
+when onboarding a customer. As such, you represent and warrant that you are not under any Sanctions (“Sanctioned
+Person) when you apply for an account or service and at all times you have maintained a banking relationship with us.
+If you are opening an account on behalf of a legal person (i.e., a company, branch, representative office, partnership, sole
+proprietorship, association, non-governmental organization, etc.), then you further represent and warrant that neither
+you, nor any of the legal person's subsidiaries, directors, officers or shareholders, nor, to the best of your knowledge,
+any of the legal person's affiliates, agents or employees, is a Sanctioned Person. If you or the legal person becomes
+sanctioned by any Sanctions, the Bank will suspend or close the account and terminate the banking relationship with
+you or the legal person. Where an account is suspended or closed, the Bank and its correspondents will not be liable
+for any loss you, the legal person, or any related person may suffer (including consequential losses) however caused.
+
+2.2. Ownership of Account
+
+You agree that when you open an account, the titling of the account (i.e, the ownership over the account) is proper
+and that the Bank has no responsibility to inform you as to how the titling may affect your legal interests (e.g, in case
+of a joint account, assets will be jointly owned by each person listed on the account). If you have any questions as to
+your legal rights and obligation for any of your accounts, you should consult with your own attorney or advisor. Certain
+regulations require that you provide us with information concerning any beneficial owners and related persons for
+the account at the account opening. You may also be asked to provide such information at other times upon request
+of the Bank. If at any time we determine that the beneficial ownership or related person information you provided to
+us was false, incorrect, or of concern to the Bank, or if you refuse to provide us with the information when requested,
+we may close or freeze any or all of your accounts, and take any other actions permitted under the Cambodian law.
+
+2.2.1. Individual account
+
+Any account may be owned by a holder individually subject to the terms of the GTC, and applicable law.
+
+2.2.2. Joint/authorized accounts
+
+If the option is available on the account, you may open an account jointly with your partner, family member, or a
+group of people. The balance of a joint/authorized account is held jointly by all account holders. This means that
+each account holder has the right to withdraw all available funds in the account based on the mandate. The account
+holder must sign a mandate telling us how the account can be operated. For joint accounts, the authorized mandate
+of operations can be:
+
+= Singly — where any signatory can act individually; or
+= Jointly — where two or more signatories must act together; or
+
+= Any X of Z— where at least X number of signatories of total Z signatories must act together.
+
+Home < > ABA Bank | General Terms and Conditions
+The Bank does not accept any other forms of mandate beyond the above-mentioned unless otherwise agreed in
+writing by the Bank.
+
+For authorized accounts, the mandate must always be singly — where any signatories can act individually.
+The joint account holders can change the mandate at any time by signing a new account mandate together.
+
+Regardless of any mandate to operate, any party to a joint account can request us to operate the account only on
+the signature mentioned in the last mandate provided to us and which has come into effect. For any joint account
+opened on or after 1 February 2016, all account holders must sign on the application to revoke an existing mandate.
+Otherwise, joint account holders can request the Bank to close a joint account following a mandate that has been
+pre-set by arrangement of all account holders (for example, a mandate X of Z is to manage, operate and close account;
+thus, X number(s) of signatories can request Bank to close a joint account without a need to gather Z number(s) of
+signatories’ signatures).
+
+2.2.3. Account for minor
+
+A minor is defined as a natural person under 18 years old. A minor can open a Bank account if accompanied by an
+adult. Bank offers various channels for the customers to open the minor account. The minor account will be opened
+as a Joint account between you and the minor unless it is stated otherwise in our specific terms.
+
+The Bank allows you to open an account with the minor only if you can prove that you have a legitimate relationship
+with the minor. The relationship between you and the minor can be proven via some documents such as a birth
+certificate, passport of the minor (where the relationship between you and the minor is statedly clearly), family book,
+or residential book, or any other type of document which can be acceptable at the Bank's sole discretion.
+
+Though a joint account, you are the sole owner of the account, which mean you are the only authorized person to
+operate and close the account.
+
+When the minor is old enough, you may transfer the ownership of the account or allow the minor to operate the
+account at your own discretion by visiting the Bank to sign necessary forms; or granting your authorization via other
+Bank's channels, including electronic channels. Though the account at any one time is operated either by you or the
+minor or both, the liability of the account is joint and several unless you have completely transferred the ownership
+and removed yourself from the account.
+
+2.2.4. Trustee account
+
+By signing the account authority, you authorize the person(s) named on the authority acting within their legal capacity,
+to manage and operate the account in accordance with the signing instructions. Meanwhile, the authorized account
+is regarded as a trust account.
+
+2.2.5. View or access account information
+
+Although the account mandate is stated besides "anyone to sign”, you, your partner, an authorized account holder, a
+Joint holder, or a signatory is allowed to view or access the account information either via OTC or electronic channel
+since they are a party to the account. The Bank as a result, will charge your account if there is any request from any
+of the above persons to view or access the account information; for example, requesting for a balance confirmation.
+
+2.3. Changes in circumstances
+
+If your age is below the threshold, you are required to have a guardian to process a joint account with you. Regardless
+of being a party of a joint account, your financial activity is limited if you are a minor. We will continue to make
+restrictions on the accounts of the minors unless we are informed that you are no longer a minor or are emancipated
+under Cambodian Law and able to submit adequate evidence that shall satisfy our due diligence requirements.
+
+In case a party to a joint account passes away, the surviving account holders will remain jointly and severally liable
+on the account accordingly.
+
+The Bank might decide to stop certain products and services due to a change of circumstances (for example, market
+conditions, legal requirements). We will notify you at least 30 days prior to converting your account, and/or and
+products or services to another account, and/or product or service. If you do not agree to the conversion to the other
+account, and/or product or service, you must inform us 10 days prior to the conversion and notify us of your intention
+
+Home < > ABA Bank | General Terms and Conditions
+to close the account and/or terminate the product or service and notify us as to where to pay your remaining funds.
+If you do not provide us with notice, you will be deemed to have consented to the conversion of your account, and/
+or product or service with us.
+
+2.4. Tax Identification Number
+
+The Foreign Account Tax Compliance Act (FATCA) requires Financial Institutions (FIs) to report the US Tax Identification
+Number (TIN) for a US Person, who has established a relationship with a Financial Institution (FI). A natural person
+or legal person is classified as a US Person if any of the criterion below apply:
+
+= AUS citizen (including a dual citizen);
+
+= AUSresident alien for tax purposes;
+
+= AUS Green Cardholder;
+
+= AUS partnership;
+
+= AUS corporation;
+
+= AUS estate other than foreign estate; or
+
+= Any trust if: (i) any court in the US is able to exercise primary supervision over the administration over the trust,
+and (ii) one or more US persons have authority to control all substantial decisions of the trust.
+
+You understand that the Bank is required by law to provide adequate and complete reports to various government
+agencies and you undertake to notify the Bank within 30 days whenever there is a change of your circumstances so
+that any of the above criterion becomes applicable to you. You expressly consent to the Bank providing any information
+about you to any government agencies If required under Cambodian law or to comply with the Bank's FATCA obligations.
+
+Further, you agree that your failure to provide a correct, complete, and accurate TIN, or your failure to satisfy the
+conditions below may result in classifying your status into a ‘recalcitrant account holder”:
+
+= Falls to comply with reasonable request for information necessary to determine if the account is a US account,
+including self-certification of your tax status;
+
+= Falls to provide the name, address and TIN of each US Person or owner of a US-owned legal entity or business;
+
+= Falls to provide a waiver of any foreign law that would prevent a foreign financial institution from reporting the
+information required under FATCA.
+
+Recalcitrant account holders will be reported to applicable government agencies as part of the FATCA reporting.
+
+2.5. Understanding responsibilities of a joint/authorized account
+Its important to understand your responsibilities prior to opening a joint account. You should know that:
+
+= The liability of joint account holders on an account is joint and several so if one or more account holders
+overdraws the account (if allowed), each joint account holder may be liable for payment of all or any part of the
+amount overdrawn;
+
+= Individual and joint liability for indebtedness may arise if a subsequent disagreement occurs between you and
+the other joint account holder(s). In the event of such a disagreement, you should give immediate notice to the
+Bank and seek independent legal advice;
+
+= The Bank may continue paying the interest of the joint/authorized account based on account type, or where
+there is a dispute in relation to your account over either the ownership of funds or the operation of the account,
+stop the operation either wholly or partially of the account upon request by any of the account holder or at the
+Bank's own discretion, pending resolution of any dispute;
+
+= Inthe event of death of any of the joint/authorized account holder, the Bank will pay the other joint/authorized
+account holder(s) (“survivors”) all moneys and other properties whatsoever standing to the credit of the joint/
+authorized account;
+
+Home < > ABA Bank | General Terms and Conditions
+If a joint account holder gives notice to the Bank to withdraw signatories from the joint account, the account will
+be stopped by the Bank but the joint and several liabilities of the accountholders for any outstanding debt will
+continue until repayment is made fully to the joint account;
+
+If jointly owned assets are provided as security for borrowing, you should seek independent legal advice about
+your liability for debts incurred now and in the future. Such an arrangement can be done only to any parties of
+such a joint account;
+
+For Online Banking access, you can view the account you have with joint account holders when mandate is not
+‘Singly’. In contrast, you can have same level of online access authority when the mandate is chosen as 'Singly’;
+
+We may accept a check into a joint account which is payable to any one or more named account holders;
+
+Unless you have specified that two or more account holders are required to operate your joint account, your
+joint account may be closed by any of you (or other person with authority) so instructing the Bank. In such
+a case, the Bank will not be liable to the other joint account holder(s) for any consequences arising from the
+closure;
+
+The Bank may require all of the account holders to agree before action on the instruction of one account holder
+to close the account even if that account holder has authority to instruct the Bank;
+
+Whenever you want to amend/alter the operations of your joint accounts, joint account holders are required to
+physically present at the Bank to execute the applicable forms;
+
+The Bank may require time to verify and execute the request as per the Bank's internal procedures. The Bank
+may decide to block the operations of joint account for the interest of all account holders; or the Bank may
+decide to stop the operations temporarily during the execution of a request. The Bank shall NOT be liable for
+such potential damages and legal consequence as result of protecting the rest of joint account holders.
+
+2.6. Your liability
+
+You are responsible to the Bank for all liabilities incurred in relation to your account(s} and indemnify the Bank against
+any liability it may incur in respect of or arising out of your account(s) in the event you breach any duty or obligation
+under Cambodian law.
+
+3.
+
+USING YOUR ACCOUNT
+
+There are many ways to access your account and to make deposit and withdrawal. However, not all options described
+in this section are available on your account. Your account also allows direct crediting, which means you can arrange
+for a deposit to be automatically paid into your account.
+
+3.1.
+
+Online Banking Services
+
+These include:
+
+ABA Mobile Application (“ABA Mobile");
+Automatic Teller Machine ("ATM");
+Cash Recycling Machine ("CRM");
+Cash-in Machine ("CIM");
+
+Check Deposit Machine ("CDM").
+
+With these services, and depending on the features of your account, you can:
+
+See all your accounts on one screen;
+Transfer funds between your eligible accounts;
+
+Transfer funds between person's account with ABA,
+
+Home < > ABA Bank | General Terms and Conditions
+= Transfer funds between account and wallet held at another financial institution that we have bilateral agreement
+to work with;
+
+= Payhills;
+
+= Open additional accounts — available for only ABA Mobile;
+
+= Transfer funds to ATM (for example, Ecash service);
+
+= |ssue Virtual Card;
+
+= Block card;
+
+= Setup card limit;
+
+= Activate card;
+
+= Schedule future payment/standing order;
+
+= Make payment using QR code function namely as ABA Pay;
+= Deposit money;
+
+= Withdraw money;
+
+= Find currency exchange rate;
+
+= Find ABA Pay places (discount merchants);
+
+= Find us on map for ATM, branch, and Cash-in Kiosk network;
+= Update your details (for example, picture of your profile);
+
+= Change your PIN;
+
+= Communicate your value feedback with us.
+
+3.1.1. ABA Mobile
+
+With this service, you can conveniently get access to your funds around the clock for most of the standard features
+mentioned in section 3.1. You can self-subscribe to this service using your account or card number provided by the
+Bank. If you have only a joint account linked to your profile, you cannot use your joint account to self-activate ABA
+Mobile regardless of the mandate. However, If you self-active your ABA Mobile service using a single account, any
+joint account(s) linked to your profile will be shown in your ABA Mobile; access to such a joint account is based on the
+joint account mandate (for example, if mandate is ‘singly’, you can view and debit funds from such a joint account;
+otherwise, view only access is the default setting).
+
+You are required to use any of the telephone numbers you registered with the Bank during the account opening process.
+If the Bank learns that your telephone number(s) has been deactivated or assigned to another subscriber/user by the
+telecommunication operator, the Bank will automatically update its record in its database If you fail to notify the Bank,
+as applicable law requires the Bank to keep each customer's profile up to date. The Bank may have verified that you
+are not in the possession of the telephone number you initially gave the Bank as part of the account opening process
+as the telephone number is now being claimed by a new subscriber/user. In such a case, you agree to indemnify the
+Bank against all types of losses if the Bank removes this telephone number from your profile maintained with the
+Bank as a result of your failure to notify the Bank of your current telephone number in a timely manner.
+
+The Bank uses different means to secure your OTP (One-Time Password) delivery to activate your ABA Mobile profile.
+Its your obligation to make the OTP secret, and invisible to others and not to share the OTP and/or your ABA Mobile
+access credentials with another person, including Bank staff.
+
+3.1.2. Internet Banking Service
+
+With this service, you can conveniently access your funds around the clock for most of the standard features mentioned
+in section 3.1. You will need to provide correct, complete, and accurate information on your email address and telephone
+
+Home < > ABA Bank | General Terms and Conditions
+number to receive OTP whenever you login. You are required to use any of the telephone numbers you registered with
+the Bank during the account opening process. If the Bank learns that your telephone number(s) has been deactivated
+or assigned to another subscriber/user by the telecommunication operator, the Bank will automatically update its
+record in its database if you fail to notify the Bank, as applicable law requires the Bank to keep each customer's profile
+up to date. As part of the Bank's customer due diligence obligations, the Bank may have verified that you are not in
+the possession of the telephone number you initially gave the Bank as part of the account opening process as the
+telephone number is now being claimed by a new subscriber/user. In such a case, you agree to indemnify the Bank
+against all types of losses if the Bank removes the telephone number from your profile maintained with the Bank as
+a result of your failure to notify the Bank of your current telephone number in a timely manner.
+
+3.2. Getting started
+
+3.2.1. Transaction Participants
+
+The Bank defines procedures and limits as allowed by applicable law to identify and verify transaction details and
+participants. Transaction participants can be the account holder, an authorized person or a non-ABA account holder.
+Any participant besides an ABA account holder must disclose information required by the Bank to identify the participant
+and the nature of the request to be processed through the Bank's core banking system. Failure to disclose information
+required for each due diligence may result in the Bank's refusal to process the transaction as well as a review of the
+relationship with you as allowed by the Bank's terms and conditions and pursuant to applicable law.
+
+3.2.2. ATM (Automatic Teller Machine)
+
+The maximum amount of money you can withdraw from an ATM depends on your chosen card product and the
+maximum amount can be up to $1,000 per day (24-hour period). The Bank reserves the right to modify/alter the daily
+limits for ATM and PQS transactions without prior notice to the extent permitted under Cambodian law. You will be
+advised when changes have been made through different communication channels.
+
+If you make a transaction through an ATM before End of Day (EOD) of the Bank, that transaction may be processed
+on that day, or on the following business day, whether or not the branch of the Bank is open for business on that day.
+The Bank usually processes transactions received towards the EOD each evening.
+
+You may be charged a fee for the use of your card in a non-ABA branded POS or ATM. This fee is detailed in the
+‘Service Charges’ brochure, specific terms and conditions of product/service and/or the Bank's website.
+
+You will need a card linked to your account to use ATM features. You can also use Ecash service to withdraw funds
+from an account. You can deposit cash into an account using your account number or the 16-digit card number. The
+Bank provides 2 types of ATM features: (i) cash withdrawal only and (ii) a recycling ATM whereby you can withdraw
+and/or deposit cash.
+
+Home < > ABA Bank | General Terms and Conditions 1 0
+What you can do:
+
+What you can do at ABA ATMs What you can do at ATM with Non-ABA branded ATMs
+RIEL trademark
+
+= Withdraw cash and pay = Withdraw cash using ABA's = Access to your accounts
+no ATM operator fee; Cards for a small fee; is also available through
+non-ABA branded ATMs
+
+= Withdraw cash without = Getaccount balances and (including overseas bank
+your card using Ecash; pay a very minimal fee; ATMs via the Mastercard/
+= Deposit cash (certain = Obtain a mini statement. Cirrus®, Visa, UPI ATM
+
+network) which allow you to
+obtain account balances or
+= Get account balances withdraw funds;
+
+and balance summaries;
+
+ATM locations);
+
+= Please note that dally cash
+= Change your PIN (if you withdrawal limits may apply
+know your existing PIN); at non-ABA ATMs. Other
+
+restrictions may also apply;
+= Activate Debit or Credit
+
+card; = Non-ABA branded ATMs
+may apply an ATM operator
+= Obtain a mini statement. fee by the ATM owner.
+
+3.2.3. Rules about deposit made through a ABA-branded ATM and Cash-in Machine (“CIM”)
+
+If you make a deposit at a ABA-branded ATM, the amount of your deposit may be recorded on your account; however,
+the deposit still is subject to verification by us. The amount validated by the ATM/us will be conclusively credited to
+your account. When depositing into a ABA-branded ATM located at a branch:
+
+= Cash deposits are credited to your account on that day;
+
+= ATM deposits are validated on the upcoming business day for the branch. If there is a difference between the
+amount of the deposit and the amount printed on the deposit slip or entered at the ATM, we will notify you as
+soon as possible of the actual amount that will be credited to your account as a final amount;
+
+= The Bank may impose maximum single and daily limits for cash deposits via ATM and CIM. Please consult with
+our Advisors and Agents for support.
+
+Please be aware that deposits may take longer to be processed If the ABA-branded ATM is not located at a branch. If
+you make a deposit at an ABA-branded Cash-in Machine (CIM) the amount of your deposit is subject to verification
+by us. The amount validated by the CIM/us is the amount that will be credited to your account. When depositing cash
+into a CIM, deposits are credited to your account on the day the deposit is made, subject to being verified.
+
+3.2.4. Replenishment of your bank account via Cash-in Service (“CiS")
+
+ABA provides different methods of cash-in (bank account replenishment) services such as in-branch deposit and
+Cash-in Machine. Besides these facilities, the Bank has also extended the cash-in service through partnerships with
+various leading Payment Service Providers (PSP). Deposits to your account via this service are subject to certain
+fees and charges and are also reviewed by the Bank as required by applicable law. The Bank may refuse to process
+any transaction if the Bank has reasonable grounds to believe that the transaction is not consistent with the profile
+of the account holder, or as otherwise required under applicable law.
+
+3.2.5. Branch
+
+Our branch staff are available to talk to you in person about products and services and show you how to use services
+you may not be familiar with, such as Online Banking service.
+
+Home < > ABA Bank | General Terms and Conditions
+
+11
+Our branch staff can:
+= Assist you to make deposits, withdrawals, and transfers to ABA account;
+= Assist you to make a transfer locally and internationally;
+= Help you purchase a check facility, including a banker check;
+
+= Book appointment with specialists, for example a Micro Loan Officer, SME Loan Officer or Relationship
+Manager;
+
+= Answer general enquiries you have about your account;
+= Address any areas of dissatisfaction and refer you to appropriate persons at the Bank.
+
+The Bank may impose different limits for transaction-related matters for single and daily limits, and different limits
+at different branches. You are advised to consult with our staff, contact our agent and/or visit our website for more
+information.
+
+The Bank also provides 3 types of banking hours
+
+(i) Monday-Friday from 8:00 AM to 4:00 PM;
+
+(il) Monday-Friday 8:00 AM to 4:00 PM and Saturday 8:00 AM to 11:00 AM;
+(ily Monday-Sunday from 8:00 AM to 8:00 PM.
+
+These hours are made in response to demand for banking services and it is at Bank's sole discretion for review and
+change without prior notice.
+
+Not all services (for example, loan disbursement) are available for Saturday and Sunday operations. The Bank may
+close its operations for all branches regardless of banking service hours in compliance with applicable law and/or if
+circumstance require such closure. The Bank will provide notice accordingly.
+
+3.2.6. ABA Online Banking Service
+
+You are advised to carefully review the General Terms and Condition for Online Banking Service together with this
+GTC. Whenever you subscribe to an Online Banking Service, you must review and agree with the specific terms and
+conditions for that specific product or service.
+
+Depending on the features of the account you have, you can use self-service Online Banking services. You are advised
+to review section 3.1 for detailed features and how to get started for using such service.
+
+3.2.7. POS (Point of Sale)
+
+The maximum amount of money you can access through POS for purchase transactions will depend on your chosen
+card products, and can be, for example, $1,000 per day (a consecutive 24-hour period). ABA reserves the right
+to modify/alter the daily limits for POS transactions. You will be advised of the changes made through different
+communication channels.
+
+The amount you can withdraw through POS may be limited at the discretion of the merchant (if allowed by the Bank)
+operating the POS terminal.
+
+The display of the POS acceptance signage in Cambodia or the Visa, Mastercard, UPI logos overseas on any premise
+is not to be taken as a warranty by the Bank, or any merchant carrying on business in those premises, that you can
+purchase, all goods and services available at those premises with your card.
+
+What you can do at POS terminal, if your account has a Card
+= Make purchases without cash at most retail or service outlets;
+
+= Withdraw cash (if allowed) at the same time from your Savings or any type of account where card is linked to it
+{except Fixed Deposit) from some retail or service outlets;
+
+= Geta printed receipt;
+
+= Use your compatible device to make a payment with ABA Mobile.
+
+Home < > ABA Bank | General Terms and Conditions 1 2
+PQS refers to a transaction initiated on both POS device and other forms of POS-nature transactions, such as QR-
+based forms.
+
+3.2.8. Domestic transfer
+
+The Bank provides different forms of domestic transfer services, including interbank transfer, Fast Payment, Bakong,
+between Account and Wallet (via bilateral agreement), amongst other services, which can be used for both local
+and international transfers. Domestic transfers are subject to fees and charges and will be reviewed by the Bank as
+required by applicable law.
+
+The Bank may refuse to process any transaction at any stage without a need to notify the receiver of the payment in
+advance as allowed by applicable law and/or when the Bank has reasonable grounds to be believe that the transaction
+was not conducted in a consistent manner with the profile of the account holder. If the Bank decides to refuse any
+domestic transfer at any stage, the Bank will give the sender a reason of refusal, unless otherwise required under
+applicable law.
+
+The Bank may impose different single and daily limits on different types of domestic transfers. You can find limits in
+the channel when you initiate a transaction and/or consult with our advisor or agent at the Contact Centre.
+
+3.2.9. International transfer
+
+The Bank provides different forms of international transfer services namely SWIFT, DBP Mobile Transfer, MoneyGram,
+Ria Money Transfer, Ripple, API amongst others. Access to international transfer services is available both for online
+banking channels and at in-branch counters. Certain international transfer services are not available for in-branch
+counters unless the customer becomes ABA account holder.
+
+The Bank may introduce different single and daily limits by channels for better management of risk associated with
+this transaction type. You are advised to disclose and complete requested information in a complete, correct, and
+accurate manner. The Bank may refuse to process any transaction at any stage of the transaction without a need
+to notify the receiver of the payment as allowed by applicable law and/or when the Bank has reasonable grounds to
+be believe that the transaction is not conducted in a consistent manner with the profile of the account holder. If the
+Bank decides to refuse any international transfer at any stage, the Bank will give the sender a reason of refusal, unless
+otherwise required under Cambodian law.
+
+3.210. Check
+
+A check provides a convenient way of paying a bill or receiving a payment. Check withdrawals are only valid if your
+account allows check access.
+
+3.2.10.1. Depositing a check
+
+Any check, electronic deposit or other documents, which are lodged for deposit to your account are, unless otherwise
+agreed by the Bank, received on a "for collection” basis only. This means that the deposit is being “cleared” for
+payment. You cannot make a withdrawal against the amount until it has been cleared. This usually takes up to 2
+working days, but in some instance may take up to 5 working days. If all or a portion of the deposit does not clear,
+some or all of the items that make up that deposit may be Dishonoured. Your account will be debited by the amount
+of the Dishonoured transactions.
+
+There are several ways you can deposit a check, including:
+= Visiting any ABA branch;
+
+= Using ABA digital Check Deposit Machine.
+
+3.2.10.2. Writing check
+
+= Check books are only available if your account allows check access. More information about checks is available
+in the ‘Using checks’ section of this GTC;
+
+= Banker's check can be purchased at any branch or ordered via different means (for example, ABA Online
+Banking service). When in a branch, you can pay for the banker's check by debiting funds from your account.
+Fees for banker's check ordered through Online Banking will be debited from your account along with the value
+of the banker's check.
+
+Home < > ABA Bank | General Terms and Conditions 1 3
+When filling out a check, use ink or ballpoint pen to prevent alteration. Always write your check so that the words and
+figures cannot be altered or added to. You can do this by filling in the amount spaces completely, or by using a line
+to fill in any blank space. Remember to date the check. If you write checks made out to cash, do not sign them until
+you are ready to cash your check. You should never pre-sign a blank check.
+
+3.211. Unarranged overdraft
+
+If your account is overdrawn or you exceed an agreed borrowing limit (if allowed), the Bank may charge interest upon
+the amount by which the account is overdrawn, or the limit exceeded at the Bank's defined rate, plus a penalty margin.
+In addition, you will be charged an unarranged overdraft fee,
+
+The decision to honor any transaction where there are insufficiently cleared funds available or where an agreed
+borrowing limit is exceeded on temporary and permanent basis, is made entirely at the Bank's sole discretion. Deposit
+accounts should not be overdrawn unless you have made prior arrangement with us such as through an overdraft.
+
+You should not make a withdrawal or payment transaction which:
+
+= Takes your account into negative/debit balance (or further into negative/debit balance) when no formal
+overdraft arrangement exists;
+
+= Means you will incur fees which will take your account into negative/debit balance (or fees and/or interest
+charges which will take your account further into negative/debit balance) when no formal overdraft
+arrangement exists;
+
+= Overdraws (or further overdraws) your account beyond the agreed overdraft limit when formal overdraft
+arrangement does exist;
+
+= Draws against uncleared funds. While we are under no obligation to do so on any particular occasion, we may
+permit you to overdraw your account as described above. This may be, for example, by honoring a check or
+paying transaction made using other channels, such as Debit Mastercard, Visa, and UnionPay International
+("UPI") Card, periodical payment, direct debit, or by making a withdrawal or payment transaction through an
+ATM or other electronic transaction channel.
+
+3.212. Depositin foreign currencies
+
+An account is a United State Dollar ("USD") account. If we receive an amount or item in a foreign currency for deposit to
+your account (including a telegraphic transfer or check drawn in foreign currency} we will convert the foreign currency
+amount into USD using the retail exchange rate that we make available for the foreign currency on that day. Visit any
+branch for more information about exchange rates that we offer.
+
+3.2.13. Deposit to your account for a particular purpose
+
+The Bank will not receive a deposit to your account on the basis that the deposit is to be reserved or applied for any
+particular purpose (i.e., collection of funds from high-yield investment program you have invested in), even if your
+account description specifies a particular purpose, unless you specifically advise that the deposit are for the account
+of someone else and you open a separate trust account for such deposit. Except as otherwise provided in this clause,
+all deposits, which are made to your account will be dealt with in the normal course of business.
+
+3.2.14. Deposit made in error by ABA to your account
+
+The Bank may reverse a payment to your account if we have made an error.
+
+3.2.15. Automatic Payment
+To set up an automatic payment you may visit any ABA branch or self-activate in ABA's Online Banking services.
+
+If the instruction you give the Bank is for an automatic payment for a business purpose, the Bank accepts the instruction
+without any liability for any refusal or omission to make all or any of the automatic payments, or any liability for any
+late payment or for any omission to follow such instructions.
+
+The Bank will use reasonable care and skill to give effect to the instruction you give to bank in relation to an automatic
+payment. The Bank relies on the accuracy of the automatic payment information you give and is not required to check
+its accuracy. You should advise the Bank immediately of any information about an automatic payment shown on
+your bank statement that is incorrect.
+
+Home < > ABA Bank | General Terms and Conditions
+
+14
+An automatic payment authority is subject to any arrangement now or hereafter subsisting between you and the
+Bank in relation to your account. The Bank may make automatic payment in any order it wishes. The payment will
+be subject to clearance against available funds and may be honored, rejected or reversed if funds are not available.
+
+If the due date for payment of any automatic payments falls on a non-business day, then it will be processed by us
+on the next business day, unless you request us to process any such payment on the business immediately before
+the non-business day on which it is due.
+
+An automatic payment authority will remain in force until terminated by the Bank, or the payee, or you tell the Bank to
+cancel it, or if you die or become bankrupt (and upon the Bank being notified of your death or bankruptcy).
+
+The Bank will not get involved in any dispute between you and any person arising out of an automatic payment. Any
+request to make an automatic payment that is not on the Bank's standard form will be deemed to include the terms
+set out in the Bank's standard form. If there is any inconsistency between those forms, the terms of the Bank's
+standards form will prevail.
+
+3.2.16. Dormant account
+
+If your account does not have any activity for 12 months or more from the last transaction date (excluding system
+transactions), your account will be classified as a Dormant Account and the Bank can do any of the following:
+
+= We will not allow any withdrawal from the account unless its status is changed from the status of ‘dormant’
+to ‘active’. The account holder shall visit a Bank branch or use other available channels before the status is
+changed.
+
+= We can charge a fee. The fee for inoperative/dormant accounts is detailed in the “Service Charge" brochure in
+the terms and conditions for specific products and services and/or the Bank's website.
+
+= We can close your account automatically without prior notice if you have a balance of zero, or if we believe that
+your account is likely to go into unarranged overdraft due to regular account and other fees.
+
+Prior to subscribing to an ABA account and service, you are advised by us and you acknowledge that the account
+must be active, used for the declared purpose, and conducted in a satisfactory manner. An inoperative account
+will be classified as ‘dormant’ and be subject to fee charges imposed by the Bank. The Bank will also be entitled to
+restrict access on your account, and take other actions permitted under Cambodian law, until your account status
+is re-classified as ‘active’. Thus, you acknowledge and agree that it is your obligation to keep account ‘active’ and
+without the need to be reminded by the Bank that your account could be classified as dormant if you fall to use it.
+The Bank may, but is not obliged to do so, reach out to you to inform you of possible charges to be applied when the
+account becomes dormant by any means allowed by the Bank's terms and conditions. You are advised and highly
+recommended to re-activate the account before a fee and charge is applied as well as other restrictions being imposed.
+
+3.2.17. Reactivation of a dormant account
+
+Bank allows reactivation of a dormant account after we have verified that you are an account holder or a signatory
+of the dormant account.
+
+The Bank offers various channels that you may use to reactivate your dormant account i.e. you may make a request by
+filling up a form to change your account status from Dormant to Active or make a cash withdrawal from your account
+at one of our branches nearest to you. Alternatively, you may reactivate your account via our electronic channels by
+performing a debit transfer from the dormant account itself.
+
+3.2.18. Unclaimed money in dormant account
+
+If you have not made any transaction on your dormant account for 10 (ten) years, we may close your account, and
+transfer any prescribed money in your account to the National Bank of Cambodia (“NBC") or government agencies
+as required by applicable law without any further notice to you for administration. We may, but are not obliged to do
+so, notify you before we close your dormant account, but there may be circumstances where we are not able to (such
+as where our records of your address or contact details are out of date). You can visit any branch to find out how to
+recover unclaimed money (although it may take times to recover money that has been transferred to the government).
+
+Home < > ABA Bank | General Terms and Conditions
+
+15
+3.2.19. Suspension, close or combining of accounts
+
+You may at any time request the Bank to close your account. The Bank will require you to be present in person to
+request a closure of your account. You are advised to close your account only at the home branch where you opened
+the account. However, the Bank may exercise its discretion to allow you to close your account at a different bank
+branch depending on the type of account you opened and your instruction to release the funds during the account
+closure process.
+
+If the Bank considers that any of your accounts are not being conducted in a satisfactory manner, it may suspend the
+operations or close any/all of your accounts. The Bank will not be liable for any loss resulting from the suspension or
+closure. Unless clearly impracticable in the circumstances, the Bank will close your account only after having given
+reasonable notice to you and setting out the details of the account(s) to be closed.
+
+The Bank may at any time, and without notice to you, apply the whole or any part of any credit balance on any of your
+accounts in any currency towards payment of any indebtedness by you to the Bank. If any amount is contingently
+due or not quantified, the Bank can withhold repayment of any credit balance pending that amount becoming due or
+being quantified and may set off the maximum liability which may at any time be or becoming due. This paragraph
+is without prejudice and in addition to any right of set-off, combination of accounts, lien or other rights to which the
+Bank is otherwise entitled whether by way of operation of law, contract, or otherwise.
+
+The Bank may suspend the operations of any account or close any of your accounts without prior notice to you if
+{and this list is not exhaustive):
+
+= You conduct your account in an unsatisfactory manner (i.e, dishonoring checks, account is used in dealing with
+prohibited activities);
+
+= The Bank is complying with a court order;
+
+= You have acted unlawfully,
+
+= You have breached the terms and condition for any account or product or service;
+= You have acted abusively to the Bank's staff;
+
+= The Bank receives notice of any third-party claim in respect of that account. The Bank will not be liable to you
+for any loss resulting from that suspension.
+
+3.2.20. Closing your accounts
+
+= You or any other authorized person, based on the account mandate instruction given by you during the account
+opening, can close your account any time via the Bank channels.
+
+= On rare occasions, we may exercise our discretion to close account or refuse to accept further deposits or allow
+further withdrawals due to unsatisfactory conduct or for any other reason we deem appropriate, such as:
+
+= Where your account is designed for domestic or personal use by you as a personal customer and is being
+used for other purposes; or
+
+= Where you hold an account that has been designed to promote your interests as an account holder who
+is under the age of majority, namely a minor, and in our reasonable opinion, the account is being used for
+purposes that do not benefit you or are not in your interests as an account holder who is under 18 years
+of age. We will notify you or the signatory/signatories) before we close the account.
+3.2.21. Things to remember when closing your account
+When you close your account, you must provide to us any:
+= Card that operates the account (including any card issued to an additional cardholder);
+= Unused checks;
+
+= Passhook.
+
+An account with check access may only be closed once all outstanding checks written on the account have been
+presented and/or closed. We reserve the right to return any checks presented for payment after the account has been
+closed as permitted by applicable law.
+
+Home < > ABA Bank | General Terms and Conditions
+
+16
+4. UNDERSTANDING DEBIT CARDS
+
+4.1. Authorizing someone else to use your account
+
+A separate authority must be given by you to authorize another person to access your account via card and this
+authority is separate from that to authorize another person to operate an account via the branch (which is set out
+below). Refer to card terms and conditions for further information on authorizing someone else to access your account
+via card as an authorized card user. For a joint account, each joint account holder must sign the authority. The Notice
+of Authority form is available in branch and on ababank.com.
+
+= Any account holder or the authorized signatory can cancel the
+authority to operate at any time, subject to the terms and conditions of
+the account, except where there is a single authorized signatory on an
+account held by a minor.
+
+= However, you will be liable for:
+
+= Any transactions made (including if they have been made by a
+Liability after cancellation third party) prior to the authority being cancelled even if they have
+not been debited to the account (including any associated fees
+and charges); and
+
+= Any future dated payments, checks, authority debit, periodic
+payments, bill payments, drafts, bills of exchange, or promissory
+notes established by the authorized signatory prior to the
+cancellation of the authority to the extent these payment types
+are allowed on your account.
+
+= We may have issued an additional debit card to any person nominated
+by you, provided that each person is a major (independent bylaw) and
+Authority relating to Debit Card subject to the Bank's review authority.
+
+= You are responsible to the Bank for the use by a third-party cardholder
+of their debit card.
+
+= An authorized signatory will not be able to add or delete any other third
+party on the account to which they have access.
+
+= In addition to an authorized signatory's other authorities, the authorized
+signatory will be able to do the following, only where the account holder
+is underage of 18:
+Authorized signatory authority
+= Alter the account holder's details on the account.
+
+= Onrare occasions, acting reasonably, we may remove the
+authority to operate of anyone authorized to operate your account
+due to unsatisfactory conduct or for any other reason we deem
+appropriate, such as if we believe allowing the authority to remain
+on your account may cause loss to you or us.
+
+If we are notified of a dispute about a notice of authority, or the owner or
+Disputes owners of an account, we may refuse to allow operations on your account
+until all parties concerned have signed any authority we require.
+
+If you require an additional card for someone else's use, you maybe apply to the Bank to issue a supplementary card
+to a person nominated by you through a formal request. That person must be appointed as a supplementary on your
+account and must be able to sign independently.
+
+Home < > ABA Bank | General Terms and Conditions
+A supplementary card may be used to access your accounts and is subject to these conditions. As the account holder,
+you will be responsible the use of any agent/supplementary card as if you had used it personally and for any breach
+of those conditions by the person nominated by you.
+
+To cancel the authority of any agent/supplementary person on your account to whom an agent/supplementary card
+has been issued you must, in addition to notify the Bank of the cancellation, specifically request the Bank to cancel
+the agent/supplementary card and return it to the Bank. The agent/supplementary card will be cancelled when the
+Bank receives it.
+
+4.2. Rules about your debit card
+
+These conditions apply to the use of the Bank's debit card issued for accessing your account. By using your card for
+an electronic transaction, you agree to be bound by these conditions in addition to specific terms and condition set
+out in card term and conditions.
+
+4.2.1. Collection of your Debit Card
+
+You agree that you will come to collect the card requested by you personally at the branch where you applied for the
+card or at another branch where you have agreed or have made such arrangement during the time of card application.
+In case, you wish that the card should be delivered to you at your address or another place determined by you, you
+agree that the Bank can deliver such card to you via service provider appointed by the Bank and you agree that the
+Bank can disclose certain Personal Information of yours to the service provider for the purpose of arranging delivery.
+You agree to indemnify the Bank against all loses and claims as a result of your consent to the Bank to exchange
+information with the service provider to deliver the card to you personally.
+
+You further agree that if the card has been issued and is not collected by you after 60 days from date of issuance,
+the Bank has the right to cancel the card without refunding any of card issuance fee or card annual fee to you and
+you further agree that you will need to pay for the card reissuance fee again if you wish to re-apply for the debit card.
+
+4.2.2. Activation of your debit card
+
+You understand that the card cannot be used if it is not activated. Therefore, you agree to activate your card immediately
+through an ATM or ABA Mobile once you have the card in your procession and you will change your PIN immediately.
+
+You understand that during activation over an ATM or ABA Mobile, a PIN code will be sent to your phone number
+registered with the Bank and therefore, you agree to ensure that your phone is working properly during the activation
+process.
+
+You understand that the PIN sent to you never expires and is always the same regardless how many PINs you have
+requested; therefore, you acknowledge and agree that you will change the PIN immediately once you collected the
+card. Failing to do so, you agree to indemnify the Banks against any/all kinds of losses resulting from your negligence.
+
+The Bank may introduce other online channels for card activation, and if it does, the Bank will notify you.
+
+4.2.3. Protecting your debit card and PIN
+
+When you receive your card, you must immediately sign the back of it with your usual signature printed on the Account
+Form/Specimen Signature Form. You must keep your card with you or in a safe place at all times.
+
+You may select a Personal Identification Number ("PIN") for your card at any ATM, through ABA Mobile, or at a Bank
+branch. Your PIN gives you access to your nominated account with the Bank. The PIN you select must not be:
+
+= An easily identifiable or sequential combination of numbers (such as 1100 or 3456); or
+= Based on easily accessible data (such as birth dates or parts of telephone numbers).
+
+Its important that you memorize your PIN. If you have any difficulty remembering your PIN, please consult the Bank
+on selection of your PIN.
+
+Home < > ABA Bank | General Terms and Conditions 1 8
+You must not:
+= Keep any record of it either on or with your card, or in any other place; or
+= Write it down; or
+= Disclose it to any person, including family members or those in apparent authority, including the Bank staff; or
+= Negligently disclose it (i.e., by not taking care to prevent others seeing you key in your PIN).
+
+If your PIN is disclosed to any person, you must change it immediately. Please advise the Bank if you do not wish to
+use the function accessed by a PIN.
+
+4.2.4. Card validity and expiry
+
+Cards should only be used within the ‘valid from’ and ‘valid thru’ dates. As soon as a card expires, ensure that you
+destroy it by cutting it into several pieces and disposing of them securely.
+
+4.2.5. Card transaction limit
+
+The Bank may impose single and daily limit to control your card usage for better management of risks associated
+with card usage. Different types of debit cards have different limit privileges. Please consult with our advisors, support
+agent and/or visit our website for details.
+
+The Bank may review limit from time to time as allowed by specific terms and condition. You will be advised through
+different means as allowed by this GTC when we make changes.
+
+4.3. Services
+Your debit cards allow you to access electronically the ABA account nominated by you through:
+= The ATM of selected banks locally and internationally;
+
+= Selected ATMs overseas which display the Visa or Mastercard, UPI logo, whereby such a logo is matched with
+the logo on your debit card;
+
+= POS terminal of ABA;
+
+= ECommerce merchants that display acceptance of Visa, UPI, or Mastercard logos matching to logo printed on
+your card;
+
+= Selected overseas merchants with POS Terminals that display the Visa, UPI, or Mastercard logos.
+The Bank may add to, restrict, or change the way in which electronic transactions can be made.
+The Bank is not liable If:
+= A merchant does not accept your card or allow you to use the POS terminal operated by that merchant; or
+= A merchant does not allow you to withdraw the amount of cash from POS terminal; or
+= You are dissatisfied with any goods or service you have purchase using your card.
+
+Access to any POS terminal locally and overseas is solely determined by the merchant who operates it. The Bank
+cannot stop an electronic transaction that has been made using your card.
+
+You cannot reverse a transaction made using your card. In certain circumstances, merchants may be able to credit
+your current, savings, or credit card account if they choose to do so.
+
+Home < > ABA Bank | General Terms and Conditions
+
+19
+4.4. ost or stolen card or disclosed PIN
+
+If your card has heen lost or stolen (or you think your card may have been lost or stolen) or your PIN has been disclosed,
+you must immediately notify the Bank by:
+
+= Blocking your card by using the Online Banking services (ABA Mobile) or
+
+= Calling to our Contact Center on Toll-free number 1800 203 203 or (855) 098 203 203 (a 24-hours, seven days a
+week service) or
+
+= Contacting any branch.
+
+If you notified the Bank by a method other than an in person visit, please visit in person at the branch of the Bank
+nearest to you to confirm the loss or disclosure. You must also confirm the details of the loss or disclosure in writing
+to the Bank within 5 calendar days.
+
+For security reasons, the Bank is not able to replace a card if it is lost, stolen, or damaged while you are overseas.
+
+4.5. Use of your card at overseas
+
+The use of your card outside of Cambodia is subject to any exchange control requirements of the country in which
+you are using the card. Use of your card overseas will not guarantee that the Cambodian customs authorities will
+allow the goods purchased to be brought into Cambodia. Please consult with the Cambodian customs authorities if
+you have any questions as to what products may be brought into Cambodia.
+
+The amount of any card transaction made outside of Cambodia will be converted into the USD equivalent, and this USD
+equivalent amount will be blocked/debited from your Savings, Current, or credit card account. A currency conversion
+fee will be charged and added to the cost of your transaction.
+
+Use of some overseas ATMs displaying the Visa or Mastercard logo may involve a surcharge when you use them.
+
+You will be charged of transaction fee for use of your card overseas. These fees and charges are detailed in the
+‘Service Charges’ brochure available from any branch of the Bank or our website.
+
+4.6. Your liability in using cards
+You are not liable for loss caused by:
+
+= Fraudulent or negligent conducted by employees of the Bank or parties involved in the provision of online
+banking services;
+
+= Faults that occur in the machines, cards or systems used, unless the faults are obvious or advised by message
+or notice on display;
+
+= Unauthorized transactions occurring before you received your card, in which case, if there is a dispute, the Bank
+will not rely only on the proof showing that the card was received; and
+
+= Any other unauthorized transactions where it is clear that you could not have contributed to the loss.
+
+You are liable for all losses you have acted fraudulently, either alone or together with any other person. You may be
+liable for all losses from unauthorized transactions if you have contributed to or caused that loss by, for example:
+
+= Selecting unsuitable PINs;
+
+= Falling to reasonably safeguard your card;
+
+= Keeping a written record of a PIN;
+
+= Parting with your card and/or disclosing any PIN to any other person;
+
+= Falling to take all reasonable steps to prevent disclosure to any other person when keying in a PIN;
+
+= Unreasonably delaying notification to the Bank of the loss or theft of your card, or of the actual or possible
+disclosure of a PIN to any other person.
+
+Home < > ABA Bank | General Terms and Conditions
+
+20
+If you have promptly reported the loss or theft of your card, or the actual or possible disclosure of a PIN, you are not
+liable for loss occurring after notification, unless you have acted fraudulently or negligently.
+
+The Bank will not get involved in any dispute between you and any person you pay, or try to pay, through the internet.
+
+If the Bank seeks in any manner to enforce or protect any of its rights or resolve any dispute relating to an account, the
+Customer will pay the Bank all the costs, fees, and incidental charges, such as legal fees, and the Bank is authorized
+to debit the customer's account accordingly.
+
+5. YOUR STATEMENTS
+
+5.1. What to do if you want to dispute a transaction?
+
+If you need to dispute a transaction, you should do so in writing as soon possible and no later than 90 days after the
+value date of transaction posted in your statement. In some circumstances, card scheme rules allow us to charge a
+transaction on the account back to the merchant with whom you made the transaction. This is known as a chargeback.
+If it is available, we will claim a chargeback right for a transaction on your account if:
+
+= You ask us to do so; and
+
+= You give us the information and material we require to support a chargeback, within 30 days after the date of
+the statement on which the transaction is recorded.
+
+Otherwise any chargeback right we have may be lost. The timeframe for disputing a transaction may not apply where
+the 3DS (3D Security) code applies. The ability to dispute a transaction may be lost if it is not reported to us within
+these timeframes.
+
+5.2. Confirmation of transaction
+
+When you use your ABA card (Visa, UPI and/or Mastercard issued by ABA) on POS terminal and/or eCommerce
+platform, the transaction receipt is printed. The transaction receipt will show the details of your transaction (i.e,
+amount, date, etc). Please keep the printed receipt and check them against your account statement.
+
+5.3. Statement
+
+You should keep all vouchers, receipts, and transaction records given to you when using your card. You can use these
+to verify the transactions on your account.
+
+Even if there are no transactions posted to your account in a statement period (which is issued at the end of each
+calendar month), a statement will always be issued regularly. You can choose to receive your statement more frequently
+by visiting a branch and/or downloading it from the ABA Online Banking service.
+
+The Bank may, but is not obliged to do so, remind you of the availability of a paper statement or e-statement by
+sending you an SMS message to your registered phone number or an email notification. Such notification, If served,
+shall evidence that the Bank has made your accountant statement available to you.
+
+To protect the funds in your bank account, you are informed of your responsibility to exercise ordinary care by verifying
+your account statement promptly whenever a new account statement is issued at the end of each month. It is your
+responsibility to verify your account statement promptly whenever a new account statement becomes available even
+if ABA does not send you a monthly reminder.
+
+To facilitate the delivery of an account statement in an efficient manner, you are advised to subscribe for ABA Online
+Banking Service to download an e-statement at least once per month so that you can verify it on a monthly basis
+and at other times when you want to verify it.
+
+5.4. Electronic statement (e-statement)
+
+You understand and agree that by requesting electronic delivery, you will not receive statements in paper form.
+You agree that electronic delivery will satisfy the Bank's requirement to provide you a periodic statement of your
+account(s) activity. To receive an e-statement, you must download through ABA Mobile or Internet Banking service.
+
+Home < > ABA Bank | General Terms and Conditions
+
+21
+Otherwise, you shall subscribe through written request to get e-statement delivered to your email address. It is your
+responsibility to notify the Bank in writing any time you change your email address, or if you wish to remove any
+account from electronic delivery. For your protection and for security purposes, the Bank will not accept any change
+of email address via telephone or email.
+
+Even though you have requested electronic delivery of your statements, you may obtain a paper copy of your account
+statement. You may receive a copy of your statement by contacting the Bank through different means and requesting
+a copy of your statement. The Bank may apply a service fee for printing your account statement.
+
+The e-statement notification can be sent to only one e-mail address. For example, the notification cannot go to both
+account holders on a joint account. The bank shall have no obligation or liability to notify any other parties on an
+account, if the email address is changed using the procedure set forth above. You agree to protect the confidentiality
+of your account, account number, username and password. You agree that it is your responsibility to ensure that the
+e-statements are not intercepted or viewed by others and for ensuring that you have logged out when your session
+is complete to prevent unauthorized access to your account. It is your responsibility to contact us If you know or
+suspect unauthorized use of your access credentials.
+
+We will supply you with account e-statement as often as you have requested ABA Online Banking. You can download
+and access to your statement up to 6 months.
+
+5.5. Things to rememer about statement
+Remember, statements are an important part of your banking and finances in general. Please be advised that:
+
+= All entries on statements should be checked carefully and any apparent or possible unauthorized transaction
+promptly reported to us;
+
+= Alltransactions will appear on the account statement; however, the statement narrative will not identify the
+initiator of the transaction;
+
+= You should retain transaction records or transaction record numbers to confirm against items appearing on the
+statement of your account;
+
+= Statements cannot be sent to a branch for collection, unless in exceptional circumstances; and
+
+= The Bank will assist any claim you may need to make regarding any lack of authority, including forgery, or any
+other discrepancy; for examples, if there is any check noted on your statement which we have paid but you did
+not authorize, or if any other amount has been debited to your account without your authority.
+
+5.6. Verification of statement
+
+You must check your bank statement (paper or e-statement) for all accounts belonging to you as soon as you receive
+or get access to them, and no later than 30 days of the issuance date of the bank account statement, to ensure that
+the entries recorded on them are correct and that there are no incorrect, suspicious or unauthorized transactions
+because you are in the best position to detect any incorrect, suspicious or unauthorized transactions.
+
+You must notify us in writing within 60 days (but no later than 90 days from the issuance date of the bank account
+statement) of becoming aware of any incorrect, suspicious or unauthorized transactions posted into your bank
+statement. Any failure to exercise ordinary care will constitute negligence and you will be liable for any damages or
+losses caused to the bank by your negligence and such negligence will preclude you from asserting against the Bank
+any unauthorized transaction on your account.
+
+If you don't notify us, then to extent permitted by applicable law:
+
+= You will be deemed to have accepted that the balance of the account(s) and all transactions recorded on the
+bank statements are lawful and correct;
+
+= We have all a full defense against any action you take against the Bank for any claim of any nature, including any
+claims for breach of contract, negligence, wrongful debiting of funds, or any other tort, equitable remedy or any
+other cause of action brought against us in relation to your account, or the transaction recorded on the bank
+statement.
+
+Home < > ABA Bank | General Terms and Conditions
+
+22
+5.7. Discrepancy, error, question or complaint
+Please contact the branch closest to you, our Contact Centre (highly recommended channel), immediately if:
+= You think there is discrepancy/error on your statement;
+= Money has been lost due to an ATM or card malfunction;
+= You have any question or complaint.
+You will need to give the Bank:
+= Your hame;
+= Your account number;
+= Your card number (if applicable);
+= Your phone verification code for verification over the phone (if applicable), and
+
+= Any detail you can about the suspicious error or malfunction or the nature of your question, including the
+amount of money involved and transaction details.
+
+The Bank will make every effort to answer/resolve your question, complaint, or dispute quickly and fairly. Where the
+Bank establishes that an error did occur, it will promptly correct the error (to the extent possible) and reimburse any
+interest or fees charged to you as a result of the error. The Bank will adjust any error that has been posted on your
+statement.
+
+You acknowledge and agree that there might be possible circumstance whereby dissatisfaction or dispute would
+occur between parties (you and us) as a nature of service delivery in general. You are willing to cooperate with the
+Bank and to follow the Bank's procedures for complaint resolutions The Bank has established a dedicated unit for
+Complaint Resolution and you are advised to discuss with this dedicated unit when you are not satisfied with your
+first attempt to resolve the dispute.
+
+If you remain unsatisfied after the Bank's dedicated unit for complaint resolution concludes your case, you can get
+further support from the National Bank of Cambodia pursuant to their dispute resolution mechanism. The Bank will
+use any evidence received or uncovered during the initial fact-finding process during the complaint resolution process
+with the National Bank of Cambodia.
+
+6. USING CHECKS
+
+6.1. Check order form, check book, and credit slip
+
+Checks supplied to you in a check book will have an account number marked on them. These checks may only be
+used to make drawings on that account. Your check book should be safeguarded at all times. Any loss of a check or
+authorized withdrawal should be reported to the Bank as soon as possible.
+
+Deposit slips, which have an account number marked on them, are only to be used for deposits to that account.
+Deposit slips and checks remain the property of the Bank after you have received them, and they must be returned
+to the Bank on request.
+
+6.2. Collection of checks
+
+The Bank may transmit checks or other documents to other locations for collection or processing in accordance with
+normal banking practices. The Bank will not be liable for any loss or destruction as result of that transmission unless
+that loss or destruction is caused by the Bank's negligence.
+
+6.3. Deposit check made at non-ABA bank to ABA account
+
+If a check drawn on an ABA is deposited at a bank other than ABA, the check will treat on a “for collection” basis,
+which means that ABA will wait for the funds to clear before ABA makes the funds available.
+
+Home < > ABA Bank | General Terms and Conditions
+
+23
+6.4. Third-party check deposits
+
+Checks can normally only be deposited into the account of the individual(s) or entity (hereafter called ‘person’)
+named as payee on the check. If you are depositing a check to your account, where you are not the person(s) (i.e.
+you are a ‘third party’), please ensure that the payee transfers ownership to you by signing the back of the check in
+the following manner:
+
+Please pay (your account name)
+Signed (payee’s signature)
+
+In addition, at the time you make the deposit, we will ask you how you got the check. This is to confirm your ownership
+of the check and avoid problems that sometimes occur with lost or stolen checks. If the check has not been properly
+signed over to you, or if a satisfactory explanation is not given as to how you received it, we may refuse to accept
+deposit of the check.
+
+6.5. Withdrawing money from a deposited check
+
+Normally you will not be able to withdraw the value of a check you deposit until the check has cleared, even though
+your account may be credited with the proceeds of the check. This rule applies even to checks made payable to
+“cash”. In some cases, withdrawals may be permitted earlier. This is only done at our sole discretion and you should
+contact your branch. When drawings are made before a deposited check has cleared, you will have to reimburse us
+if the check is subsequently dishonored and for other fees and charges that may be payable.
+
+6.6. How to get access to check funds early
+
+A valid check can sometimes be cleared on the day it is presented if you are willing to pay for the service, which is
+called ‘Special Clearance’ subject to a cuff-off time imposed by the Bank. The check will be cleared for you to withdraw
+the funds once it is paid by the other bank.
+
+6.7. Things you should know about writing checks
+
+= Any check books issued on the account (where available) will bear the name of the account holder. You should
+safeguard your check books;
+
+= Check books will be not mailed to the account holder(s) mailing address unless alternative arrangements are
+made by the account holder and subject to the bank's sole discretion to consider such a request or not;
+
+= Check books can be sent to an ABA branch for collection. Certain fees and charges maybe imposed by the
+Bank. You further understand agree that the delivery of the check book may be delayed if it is delivered to a
+branch for collection.
+
+6.8. Types of checks
+
+Personal checks = These are available for Everyday Banking accounts. The checks are drawn
+on your account and are prepared by you;
+
+= Check books can also be ordered by visiting any branch or issuing an
+instruction on Online Banking.
+
+Open or uncrossed = An open check is one that is uncrossed, that is, a check that does not have
+
+check two parallel lines across it. It is an instruction to us to pay anyone who
+presents the check (assuming that the check is a ‘bearer’ Check) at our
+branch where the drawer's account is held, rather than the Check being
+required to be deposited into the account;
+
+= |f the check was lost and presented for payment by the person who found
+it, we would not normally be responsible for reimbursing the money to the
+drawer. You should always make your instructions clear.
+
+Home < > ABA Bank | General Terms and Conditions 24
+Crossed Check = When you “cross” a check with double lines at the top and left corner of the
+check, this act means that the check must be deposited into an account. It
+cannot be cashed.
+
+Not/non-transferable = This means the check cannot be transferred or endorsed to someone else
+or account payee only and it can only be paid to a bank account in the same name of whosever the
+Checks. check is made out to. It cannot be cashed.
+
+‘Not negotiable’ = Acheck is a negotiable instrument, that is, it can be passed from one person
+checks to another;
+
+= Acrossed check, with or without the words ‘not negotiable’ written between
+the lines, protects the "true owner’ in case itis lost or stolen.
+
+‘Or bearer’ checks = |f the words ‘or bearer’ appear at the end of the line on which you have
+written the payee's name and you leave the check uncrossed and without
+the words ‘not negotiable’ on it, we will have to pay the proceeds to anyone
+who presents the check;
+
+= |f, on an uncrossed check, you cross out ‘or bearer’ or write in ‘or order’ and
+the check is presented for payment in cash, we have to pay the proceeds
+only to the person whose name is on the check, or as they direct.
+
+6.9. Dishonored check
+
+If a check is returned to us unpaid it means it has been dishonored by the paying bank on which the check was drawn.
+If that happens, we may return the check to you. We will also reverse the entry in your account, that is, deduct the
+amount we credited. If the check you deposited is not paid, it is your responsibility to pursue payment from the person
+who gave it to you. A check may be dishonored when there are not sufficient funds in the account of the writer of the
+check or there is some irregularity in connection with the check.
+
+6.10. Why may a check be dishonored?
+There are a number of reasons why a check may be dishonored, some of which are:
+
+= There are insufficient available funds in the account of the drawer (the person who signed the check) to cover
+the amount written on the check;
+
+= The check is not signed, the signature is not valid or more than one signature is required;
+
+= The check has been ‘stopped’ by the drawer (see the ‘stopping a payment’ section for more information on
+‘stopping’ checks and any fees involved);
+
+= The checkis stale — presented for payment more than 6 months after the date written on it (although we may
+still process it);
+
+= The check has been materially altered without the alterations being properly signed or initialed.
+
+You are charged a fee for every check you issue that is dishonored (known as an ‘outward dishonor’). This fee is
+detailed in the “Service Charge" brochure, specific product/services terms and conditions and/or our website. If you
+deposit a check received from a person and it is dishonored (known as an ‘inward dishonor}, you will not be charged
+a fee. If a check has not been cleared, the entry will be corrected as soon as possible.
+
+When a check is deposited to your account and has been dishonored, the amount of the deposit is reversed (debited)
+from your account. Checks will be dishonored within the same day, or at the latest 2 working days, after being
+processed through the clearing house.
+
+Home < > ABA Bank | General Terms and Conditions
+
+25
+6.11. Post-dated checks
+
+A post-dated check means that the check is dated with a future date. The National Bank of Cambodia requires post-
+dated checks to be cleared regardless of a check being presented before, on, or after the date written on the check.
+The Bank strongly recommends that you do post post-date your checks.
+
+6.12. Altering a check
+
+If you need to alter a check, the signatory(ies) must sign off with a full signature next to the change. Permitted changes
+include increasing/decreasing the amount on the check, changing the date, and/or altering the payee's name. If the
+alteration has not been signed it could result in your check being dishonored.
+
+6.13. Stale checks
+
+A check presented for payment more than six months after the date of the check dated may be dishonored on the
+ground that it is a "Stale Check”.
+
+6.14. Check confirmation before payment
+
+The Bank may, but is not obliged to do so, contact the account holder(s) or signatories of an account to confirm the
+account holders’ awareness of the check being presented before drawing the funds. The Bank in its sole discretion
+will establish limits for confirming a check. It may also revise the limit from time to time based on the reasonable
+request of a customers as part of the Bank's valued added service. The applicable law does not require bank to obtain
+confirmation from the check issuer (payer) when accepting a check to clear.
+
+The Bank will bear no liability for not obtaining prior confirmation from the account holder (as doing so is not required
+under the applicable law), except any loss as result of the Bank's gross negligence. If the customer does not want to
+be contacted for confirmation, we strongly advise that you discuss with your Relationship Manager for better ways
+to monitor your account transactions (for example, subscribe to Online Banking Service) and visit our Bank branch
+to complete a form “request to stop being informed for a check payment.”
+
+6.15. Banker checks
+
+Bank checks, drawn by a bank on itself, are a widely accepted means of safe payment, and a safe alternative way to
+carrying large amounts of cash.
+
+6.16. Getting a banker check
+
+Banker checks can be purchased at any branch or via Online Banking Service. You can pay for the banker check and
+the fee by debiting funds from your account. Fees for banker checks purchased via Online Banking Service will be
+charged to your account along with the value of the banker check purchased.
+
+6.17. Things to remember with banker checks
+
+A banker check has to be cleared like any other check and may be dishonored for the same reasons as a personal check.
+If a banker check you have purchased is lost, stolen, or destroyed, please contact any of our branches immediately
+with your original banker check purchase receipt. There is a fee for replacing a banker check.
+
+If a banker check is no longer required, the purchaser, may cancel it and request a refund at any branch. The original
+banker check and purchase receipt should be provided when requesting a refund. The Bank may impose a fee for
+refunding a banker check.
+
+6.18. Stopping a payment
+
+If necessary, a check that you have written may be cancelled or stopped. You will need to advise the Bank as soon
+as possible of your wish to stop the check. The Bank will require details of the check, who it is made out to and the
+amount and date of the check and reason for cancellation.
+
+Similarly, if your checks or check book(s) have been stolen, lost, or damaged, you will need to advise the Bank as
+soon as possible of your wish to stop the remaining checks. The Bank will require to have the knowledge of the serial
+number of the stolen or lost checks.
+
+Home < > ABA Bank | General Terms and Conditions
+
+26
+You are required to visit a Bank branch to complete and sign a “Stop Payment Request”. If the check(s) has/have
+not been presented for payment, the Bank will make every effort to ensure non-payment of your check(s). However,
+the Bank will not be liable if payment on any check is not stopped. A fee will be charged for cancelling or stopping a
+check. This fee is detailed in the "Service Charge" brochure, specific product/service's terms and conditions and/
+
+or our website.
+
+This section covers how we stop certain types of payments from your account.
+
+Stopping check
+payments
+
+If you want to stop
+
+a check payment,
+
+you can do so if you
+notify us before it has
+been paid. You must
+contact our Contact
+Centre and submit a
+written and signed
+instruction (in ABA's
+standard form). There
+is a fee for stopping
+
+a check, but this will
+not apply If your check
+book has been lost,
+stolen or destroyed or
+where the check book
+is no longer required
+and the checks are not
+signed.
+
+Home < >
+
+Stopping periodical
+payments or
+regular transfers
+
+If you have
+authorized us
+
+to make regular
+automatic
+payments or regular
+transfers from
+
+your account, and
+you want to stop
+those payments or
+transfers you will
+need to notify us at
+least one business
+day before the
+payment or transfer
+is scheduled.
+
+If you set up a
+recurring payment
+in Online Banking,
+you can stop it
+online.
+
+Stopping a Direct Debit or a regular payment
+
+You can authorize another third party to debit your
+account for payment of services (for example, life
+insurance premiums or utility bills). If you want to stop
+the arrangement, you can do this in two ways:
+
+1. Contacting us to
+request a cancellation.
+Please note this is only
+available for Direct
+Debits. We can then
+contact the authorized
+party on your behalf to
+request a cancellation.
+We will promptly
+process any:
+
+= Instruction by you
+to cancel a Direct
+Debit Request
+relevant to a
+banking service we
+provide to you; or
+
+= Complaint by you
+that a Direct Debit
+was unauthorized
+or otherwise
+irregular.
+
+2. Contacting the
+authorized party
+yourself to request
+
+a cancellation. If
+
+you have provided
+your card number
+
+and expiry date to
+
+a merchant, you
+
+will need to contact
+them to request a
+cancellation. Please
+note, unlike Direct
+Debits, ABA is unable
+to cancel a regular
+payment (also known
+as a card recurring
+payment) on your
+behalf. Until you cancel
+your authority, the
+merchant is entitled to
+request ABA to debit
+the account and ABA is
+obliged to process this
+request.
+
+ABA Bank | General Terms and Conditions 27
+Stopping check
+payments
+
+Stopping periodical
+payments or
+
+regular transfers
+
+What details we will need to stop the payment:
+
+the following Check
+
+details:
+
+Account details;
+Check number; .
+
+Amount of the .
+Check;
+
+Name of the
+payee (the
+person you've
+written the Check
+out to);
+
+Date of the
+Check; and
+
+If the Check was
+crossed or open.
+
+Home < >
+
+the following details:
+
+The payment
+amount;
+
+When it's due;
+The payee; and
+
+The account
+it normally
+comes from.
+
+Stopping a Direct Debit or a regular payment
+
+When you contact us to
+request the cancellation,
+we can complete the
+request on your behalf
+and forward it to the
+authorized party. We
+will then put a ‘stop’ on
+your account which will
+prevent all withdrawals
+by the previously
+authorized party for
+
+a period of five years.
+You can request this
+‘stop’ to be cancelled at
+any time. Without any
+request for amendment,
+we will cancel this
+facility.
+
+ABA Bank | General Terms and Conditions
+
+If the merchant does
+not comply with your
+request to cancel
+
+the authority, you
+must provide ABA
+with a copy of the
+correspondence with
+the merchant to enable
+ABA to dispute the
+relevant transaction(s)
+on your behalf.
+
+28
+UNDERSTANDING FEES
+AND CHARGES
+
+Home < >
+(. FEES AND CHARGES
+
+7.1. Account Fees and Charges
+
+Subject to any applicable terms and conditions, the Bank may impose fees and charges for any services provided in
+this booklet and/or any specific products or services it provides in connection with any account. Fees and charges
+depend on the channel used to request the service and the currency used in the transaction.
+
+Some of the fees and charges are mentioned in the booklet. Full details of all the fees and charge are set out in the
+“Service Charge" brochure, which can be obtained from any branch of the Bank or our website. The Bank is entitled
+to debit your account for these fees and charges whenever they become payable.
+
+Any applicable government fees and charges, including Resident Withholding Tax, Non-Resident Withholding Tax
+and any applicable fees, will also be debited by the Bank from your account.
+
+If there are any changes to the standard fees and charges, the Bank will inform you of the changes and the date on
+which the change takes effect by:
+
+= Direct communication to you (i.e, by notice on your account statement);
+
+= Displays at the Bank branches or other digital communication means such as website, Facebook, Push
+Notification, SMS, Email Alert;
+
+= Media advertisements.
+
+These communication means are not exhaustive. The Bank will exercise reasonable care, and where possible, inform
+you of non-standard fees and charges before payment is due.
+
+Home < > ABA Bank | General Terms and Conditions 30
+ACCOUNTS SECURITY
+AND LIABILITY
+
+Home < >
+8. SECURITY AND LIABILITY FOR CARD AND ONLINE
+BANKING SERVICE USAGE
+
+8.1. Protecting your card
+
+To protect your card, you will need to:
+= Sign it as soon as you receive If;
+= Carry it with you or keep it somewhere safe;
+= Regularly check that you still have your card;
+
+= Not give your card to anyone else, including a family member or friend.
+
+8.2. Recording your PIN
+
+If you make a record of your PIN, you will need to keep it separate and well away from your card unless the PIN is
+reasonably disguised. However, to minimize the risk of unauthorized transactions occurring on your account, it is
+best to keep your PIN record, even If disguised, separate and well apart from your card.
+
+8.3. Protecting your access codes including your PIN
+
+What you have to do What you can't do
+
+Make sure nobody watches or hears you when
+you are entering or using your codes at electronic
+equipment (e.g. ATM and POS terminals).
+
+Be ready to make a transaction when you approach
+an ATM or POS terminal;
+
+Make sure you do not leave anything behind when
+you complete a transaction including leaving your
+card unattended in or at an ATM;
+
+Notify us immediately if your PIN mailer has not
+been received or if it has been opened (if we agree
+on such an arrangement) or if a PIN change request
+has occurred without being requested.
+
+= Try to memorize It; = Write your PIN on your card even if itis
+disguised;
+= Destroy our letter telling you your PIN (if applicable)
+and any documentation we issue to you containing = Keep a record of your PIN with or near
+a code; your card;
+
+= Tell anyone your codes, even your family
+members and friends;
+
+= |f you select your own code, do not pick
+a number or word that can be easily
+guessed (e.g. part of the number printed
+on your card, date of birth, driver's
+license number);
+
+= Enter your PIN in an electronic banking
+terminal that does not look genuine,
+has been modified, has a suspicious
+device attached to it or is operating in a
+suspicious manner.
+
+8.4. Loss, theft, or misuse of a card, PIN or other code
+
+Home < >
+
+You must notify us as soon as possible if your card, PIN or code record is lost, stolen or misused, or you suspect that
+unauthorized transactions have been made on any account. This will enable us to put a stop on your card straight
+away preventing or minimizing losses resulting from unauthorized transactions and your potential liability for such
+losses. If you have misplaced your card, you can put a temporary lock on it by using the Online Banking Service. If
+your card has been lost or stolen, you can permanently block your card using the Online Banking Service and/or you
+will need to contact us to permanently cancel your card.
+
+ABA Bank | General Terms and Conditions
+
+32
+9. LIABILITY FOR UNAUTHORIZED TRANSACTIONS
+
+In this section, we outline when you will and when you will not be liable for unauthorized transactions.
+
+When you are not liable
+
+You will not be liable for losses resulting from
+unauthorized transactions where it is clear
+that the user has not contributed to the loss.
+You will not be liable for losses resulting from
+unauthorized transactions that:
+
+= Are caused by the fraudulent or negligent
+conduct of our staff; or
+
+= Require the use of a card or other device
+and/or a code and happen before the
+user receives their card or other device,
+or receives or selects their code(s) (as the
+case may be), including a replacement or
+reissued card, other device or code; or
+
+= Require the use of a card or other device
+and/or a code and happen after we have
+been notified that the card, or other
+device has been misused, lost or stolen
+or that the security of the code has been
+breached; or
+
+= Require the use of a card and happen
+after you have requested us to cancel the
+card and have either returned the card
+tous
+
+= Are made with a card, code or with any
+other device or identifier that is forged,
+faulty, expired or cancelled; or
+
+= Are electronic transactions able to be
+made using an identifier without a code
+or device; or
+
+= Are electronic transactions able to be
+made using a device and not a code,
+provided you did not unreasonably
+delay in reporting the loss or theft of the
+device.
+
+When you are liable
+
+You will be liable for losses resulting from transactions
+which are carried out by the user, or by another person
+with the user's knowledge and consent. You will be
+liable for actual losses resulting from unauthorized
+transactions caused by the user:
+
+Engaging in fraud; or
+
+Voluntarily disclosing any of their codes to anyone,
+including a family member or friend; or
+
+Keeping a record of a PIN or other code:
+
+= Without making a reasonable attempt to
+disguise it or to prevent unauthorized access
+to it; and
+
+= Ina way that it could be lost or stolen with their
+card (in the case of a PIN) or any device to
+which the code relates; or
+
+Keeping a record of a code:
+
+= Without making a reasonable attempt to
+disguise it or to prevent unauthorized access
+to it; and
+
+= Where more than one code is used, recording
+both/all codes in a way that they could be lost
+or stolen together; or
+
+Writing their PIN on their card; or
+
+Writing their code on the device to be used with that
+code; or
+
+Selecting a code which represents their birth
+
+date, or being an alphabetical code, which is a
+recognizable part of their name, after we have asked
+them not to select such a code and told them of the
+consequences of doing so; or
+
+Leaving a card in an ATM (provided the ATM
+incorporates reasonable safety standards that
+mitigate the risk of a card being left in the ATM); or
+
+Acting with extreme carelessness in failing to
+protect their codes.
+
+You will also be liable for actual losses resulting from unauthorized transactions caused by the user unreasonably
+delaying notifying us of the misuse, loss or theft of their card or other device, or of their code(s) becoming known to
+someone else. Your liability will only extend to losses which occur between the time when the user became aware (or
+should reasonably have become aware) of such misuse, loss or theft and when we were actually notified.
+
+Home < >
+
+ABA Bank | General Terms and Conditions
+OTHER IMPORTANT
+THINGS TO KNOW
+
+Home < >
+10. CHANGES TO TERMS AND CONDITIONS
+
+At various times, we may make changes to the terms and conditions, subject to applicable legislation and notification
+
+req
+
+urements therein, related to:
+
+Fees and charges (including amount, frequency, and times for payment and to introduce new fees and charges);
+
+Interest rates;
+
+How interest is calculated, charged or paid to your account or to the balance tiers which determine the interest
+
+rate or rates;
+
+Transaction limits;
+
+The types of transactions performed or ways you can access or transact on your account;
+
+Eligibility requirements in relation to your account; or
+
+The features of your account or of a product or service,
+
+We will always let you know if, for any reason, the terms and conditions of your account change and provide you timely
+opportunity to terminate your bank account or other banking services with us should you object to the changes.
+
+However, advanced notice may not be given where a change has to be made to immediately to restore or maintain
+the security of our systems or facilities. Unless otherwise specified in this document, we may notify you of changes
+
+as
+
+Home
+
+set out in the following table:
+
+Type of change
+
+Minimum ongoing balance
+required
+
+New fee or charge or increase
+in fee or charge for performing
+electronic transactions or
+issuing or replacing a device
+used to conduct electronic
+transactions (such as a card,
+token, or code)
+
+Other new fee or charge or
+increase to a fee or charge
+
+Interest rate changes
+
+Change in the way interest is
+calculated, charged or paid
+
+to your account — or to the
+balance tiers which determine
+the interest rate or rates
+
+Changes increasing your liability
+for electronic transactions
+
+<>
+
+Time frame
+
+30 days in advance
+
+30 days in advance
+
+30 days in advance
+
+No later than the date of the
+change
+
+30 days in advance
+
+30 days in advance or no later
+than the date of the change
+
+Method of notification
+
+In writing, electronically, or
+through media advertisement
+
+In writing, electronically, or
+through media advertisement
+
+In writing, electronically, or
+through media advertisement
+
+In writing, electronically, or
+through media advertisement
+
+In writing, electronically, or
+through media advertisement
+
+In writing, electronically, or
+through media advertisement
+
+ABA Bank | General Terms and Conditions
+
+35
+Type of change
+
+Transaction limits on electronic
+
+transactions, a facility or
+
+Time frame
+
+30 days in advance or no later
+than the date of the change
+
+Method of notification
+
+In writing, electronically, or
+through media advertisement
+
+electronic equipment
+
+In advance of the change, or as
+soon as practicable afterwards,
+unless the change has been
+publicized by a government
+agency, government or
+representative body
+
+In writing, electronically or
+
+Government charges through media advertisement
+
+Any other change to a term or In advance of the date of the
+condition change
+
+In writing, electronically or
+through media advertisement
+
+10.1. Electronic notice
+
+We may use your email address to advise you of any changes to your account, including these terms and conditions
+or send you an email notification to tell you the changes are available for viewing within Online Banking Service or
+on our website.
+
+We may extend our electronic notices through other means such as Push Notification and SMS to be sent to your
+ABA Mobile user profile and phone number registered within our system of any change of any readiness of product
+and service to be collected as well as changes to be applied together with recommendation where to get detailed
+information. You are deemed to receive such a notice when our system generates successful delivery note.
+
+10.2. Communication means
+
+You agree that the main daily communication mode between you and the Bank is the phone number provided by
+you during the account opening process. Email may only be used in some circumstance where the Bank cannot
+communicate to you by phone.
+
+Regarding your phone number, you agree that the Bank will not open an account for you in case the Bank finds that
+the phone number provided by you is being used by another person unless you prove that you are the current owner
+of the phone number or unless you agree to provide a new phone number or unless you agree not to use the phone
+number and only use email.
+
+11. GENERAL MATTERS
+
+11.1. End of Day operation (EoD)
+
+EoD is a process of posting all transactions created during a day. Since the number of daily transactions can be
+significant, the Bank may start EoD before 12:00 AM of a “T" day (Today). If you perform a transaction during EoD,
+the value date of your transaction may be T day or T+1 day.
+
+In cases where the value date is important, for example, loan repayments or payments to suppliers, you are required
+to complete such transactions before 8:00 PM of the T day; otherwise the value date of your transaction can be
+1 day later than its actual date.
+
+The Bank is not liable for any consequences or losses arising from any transaction/payment made after 8:00 PM.
+
+Home < >
+
+ABA Bank | General Terms and Conditions 36
+11.2. Form of execution of the agreement
+
+As permitted by applicable law, the Bank shall obtain from you either your signature and/or thumbprint when you
+execute any form and/or agreement. As a standard practice, the Bank generally requires a signature to execute a
+form or agreement. However, there are specific circumstances where the Bank may require both a signature and
+thumbprint to execute a form or agreement (for example, the execution of a loan agreement). Both a signature and
+a thumbprint are equally and legally valid at all times.
+
+11.3. What happens if your contact details change?
+
+If your address or other relevant details change, please notify us as soon as possible. This can be done easily by
+visiting any branch of ours. If the authorized signatory changes, please notify us as soon as possible by visiting any
+of our branches. Please note that unless you have given us adequate prior notification of account changes, we cannot
+be held responsible for any resulting errors or losses. If we cannot locate you after having made reasonable efforts
+to do so, we may stop operations on your account until you give us your current contact details.
+
+11.4. Change of address, telephone number and facsimile number
+
+You must promptly notify the Bank of any change in your address, telephone number or facsimile number. This will
+enable us to ensure that correspondence, important documents, card (if allowed), etc, are sent to the correct address.
+
+You agree that the Bank may at its sole discretion restrict all operations related to all of your account(s) in case the
+Bank could not communicate with you via your telephone number registered with the Bank and you agree to indemnify
+the Bank against all type of losses resulting from the Bank restricting all operations related to your account.
+
+11.5. Update of your Personal Information
+
+You are obliged to notify the Bank as soon as possible once there is update of your personal information which was
+provided to the Bank during your request to open the account to ensure that your information is up-to-date and
+relevant. Such information may include but not limited to your name, your date of birth, your address, your occupation,
+your nationality, your identification documents, and your contact details.
+
+You agree that failure to provide such update may result in an inability for the Bank to maintain or store your current
+up-to-date information in the Bank's system which is required by applicable law and which may result in a full or
+partial inability to use the Bank's services and your account.
+
+You agree that the Bank may at its sole discretion deactivate/restrict all of your account(s) related operations and
+demand you to update such information.
+
+11.6. Update of Identity Document
+
+The Bank will use the ID to identify you when you are using the Bank's service. You are required to submit the new
+ID to the Bank whenever the ID stored with the Bank during the account opening process has expired or becomes
+invalid. If your ID is expired and is not updated by you, there might be some disruption during your use of your account
+or any services, i.e. delay in the provision of services, staff inquires to demand for new ID, or restrictions on the use
+of your account. Therefore, you agree that you will always update the Bank as to your current ID.
+
+11.7. Privacy and confidentiality
+
+The Bank's policy explains our commitment to the protection of your personal information. We take your privacy
+every seriously. Information you provide to the Bank will be kept strictly confidential and will be securely held by the
+Bank. You have the right to access the information by enquiring at any branch of the Bank and you may also request
+that it be corrected.
+
+The Bank will make every effort to keep your personal information up to date. To assist us, please let us know of any
+changes in your personal and business details such as, but not limited to, address, contact number or change in
+ownership structure of your business, etc.
+
+Home < > ABA Bank | General Terms and Conditions
+
+37
+How we use your information will be dependent on the purposes for which that information was collected. Generally,
+the Bank may use this information to:
+
+= Consider your application for facilities, products and services;
+= Administer, manage and monitor any facilities, product or services provided to you;
+= Conduct market research, data processing and statistical analysis;
+
+= Unless you disagree, provide you with information about other facilities, products and services, including certain
+third-party products and services; and
+
+= To comply with any regulatory requirements imposed on any shareholders of the Bank.
+
+You agree that the Bank and any of its shareholders, related companies and affiliates (the 'Parties’) may exchange
+with each other any information about me including:
+
+= Any information provided by you in application forms;
+= Any other personal information you provide to us or which we otherwise lawfully obtain about you; and
+= Transaction details or transaction history arising out of your arrangements with the Bank.
+
+If any one of the Parties engage anyone (a “Service Provider") to do something on their behalf (for example a mailing
+house or a data processor) then you agree the Parties and the Service Provider may exchange with each other any
+information herein, and that any information can be processed either in Cambodia or through services located in
+another country. The Bank might give any information to entities other than the Parties and the Service Provider
+where it Is required or allowed by law or where you have otherwise consented.
+
+The Bank may use your personal information for the purpose of data matching and in doing so may collect information
+about you. "Data matching” is the process of comparing your personal information with publicly available information
+and/or with information held by entity the Bank has an ongoing relationship within order to better enable us to carry
+out any of the above purposes.
+
+The Bank may disclose your information to carefully selected third parties for the purposes of data matching, provided
+those third parties are subject to an obligation of confidentiality.
+
+The Bank may obtain information and make such enquiries about you as the Bank may consider warranted form any
+sources including credit reference agencies for the above purposes.
+
+The Bank may disclose information about you to credit reference agencies for the purpose of obtaining credit reports
+on you. Those credit reference agencies may retain that information and provide it to their customers who use their
+credit reporting services. If you default in any obligations to the Bank, then the Bank may disclose information about
+you to credit reference or debt recovery agencies and the Bank may retain or be retained by them. Those agencies
+may provide that information to their customers who use their credit reporting services.
+
+The Bank may also disclose account information to any signatory of your accounts. If you are under 16 (Cambodian)
+or 18 (foreigner) years old, the Bank may contact your parent(s)/guardian(s) to disclose, or to collect, or to obtain
+repayment of any amount you owe to the Bank.
+
+Our security standards are maintained, and our technology regularly updated to provide protection for the information
+we hold. We do not sell, publish, or give away your information.
+
+You expressively consent to assume the risk of data breaches despite the Bank's preventive security measures; as a
+Customer, you may not claim for damages as a result of a data breach if the Bank has adopted proper security measures.
+
+Certain laws also require the Bank discloses your information on request. If the Bank receives a request from certain
+agencies to release your information, the Bank may not be able to tell you that the request has been received. The
+Bank may also disclose the information to the police, certain government agencies, correspondent banks or any
+financial institutes where the Bank reasonably believes that the disclosure will assist the investigation, detection and/
+or prevention of fraud or other criminal offenses, such as money laundering and terrorist financing legislation in force
+in Cambodia or other countries. You agree to provide all information to the Bank as it reasonably requires to comply
+with these laws. Anti-money laundering and terrorist financing legislation in force in Cambodia or other countries
+may also prohibit us from entering into or concluding a transaction that involves certain countries, persons or entities.
+
+Home < > ABA Bank | General Terms and Conditions
+
+38
+As a result, you agree with the Bank that it may:
+= Delay or block any transaction or refuse to pay any money, without incurring any liability or
+
+= Disclose any information concerning you or the transaction to the Cambodian police or any relevant authority
+in Cambodia or any country in order to determine whether your transaction contravenes any laws related to
+terrorist financing or money laundering, in the reasonable belief that the transaction may contravene those laws,
+and the Bank will not incur any liability to you as result of that action.
+
+In this clause, "money laundering” includes any dealing with the proceeds of criminal activity and any dealing with
+funds or assets of any person or entity suspected of involvement in terrorism or any terrorist act.
+
+11.8. Notice and communication
+
+Communications relating to your account, including account statements and notice of any changes to the terms
+and conditions will be given in writing, or in any other way set out in these terms and conditions or agreed with us.
+We may use electronic means to communicate with you. This may include emailing you written notices or other
+communications about changes to our products and services or sending you notification the changes are available
+for viewing within Online Banking Service or on our website.
+
+If we post you a written communication directly, we will send it to the most recent address you have given us. Where
+we send written notice by ordinary mail, we will regard that notice be delivered within 3 working days after we post it.
+
+11.9. Anti-Money Laundering and Counter-Terrorism Financing Obligations
+
+Please be advised that in order for us to meet our regulatory and compliance obligations we will be increasing the
+levels of control and monitoring we perform. You should be aware that:
+
+= Transactions may be delayed, blocked, frozen or refused where we have reasonable grounds to believe that
+they breach applicable law or sanctions (or the law or sanctions of any other country). Where transactions
+are delayed, blocked, frozen or refused the Bank and its correspondents are not liable for any loss you suffer
+(including consequential loss) howsoever caused in connection with any deposit product;
+
+= We may from time to time require additional information from you to assist us in the above compliance process
+(for example, on customer due diligence and transaction participants); and
+
+= Where legally obliged to do so, we will disclose the information gathered to regulatory and/or law enforcement
+agencies, other banks, other members of the Bank's affiliates, service providers, or to other third parties.
+
+= You provide the Bank the following undertakings and indemnify the Bank against any potential losses arising
+from any breach by you of such undertakings:
+
+= You will not initiate, engage in or effect a transaction that may be in breach of applicable law or sanctions (or the
+law or sanctions of any other country); and
+
+= The underlying activity for which any deposit product is being provided does not breach any applicable law or
+sanctions (or the law or sanctions of any other country).
+
+11.10. Credit of interest
+
+The Bank pays interest on credit balances in certain types of accounts. Interest is calculated on a dally basis for interest
+bearing savings and transactional accounts and is credited to your account on the key date. Your account's key date
+will be due on same calendar day of each month or quarter depending on your account type. If your account key’s date
+falls on a non-business day, your account's key date will automatically move to the next business day of the month.
+
+The interest paid or credited by the Bank will be affected by applicable taxes. The tax status of the account holder will
+determine the type and amount of tax deducted. The Bank relies on the tax status and information (where appropriate)
+provided by the account holder. Resident Withholding Tax (“RWT") will be deducted from interest payments made
+to Cambodian account holders. However, the RWT is applicable for foreigners who have been consecutively living
+in Cambodia for period at least 182 days or indicative to live in Cambodia at least 182 days by providing sufficient
+supporting documents such as, but not limited to, employment contract, house rental contract or owning a business in
+Cambodia. Residential tax status is selected during the first account opening when you provide sufficient information
+
+Home < > ABA Bank | General Terms and Conditions
+
+39
+to our staff. For non-resident account holder, Non-Resident withholding Tax (‘NRWT") will be deducted. We rely on
+your accuracy of documents and information provided in order to choose a correct tax status of your account.
+
+For some accounts, the balance must exceed a specified minimum before any interest will be paid to you. The Bank
+may introduce or alter any specified minimum balance above on which interest is payable, and any specified balances
+above on which special higher rate of interest is payable. You will be notified of any change and the date.
+
+11.11. Fixed Deposit
+
+The following terms and conditions apply to Fixed Deposit and incorporate the terms and conditions set out in Fixed
+Deposit Certificate or application forms (if any).
+
+Interest payable during the term of your Fixed Deposit will not be compounded. However, any interest payable at
+maturity can be automatically added to the repaid principal amount in order to make a new Fixed Deposit.
+
+Unless the Bank agrees, the term of your Fixed Deposit is fixed, and you may neither transfer the deposit nor draw
+on the deposit until it matures. Any request for early and/or partial withdrawal (if allowed) of Fixed Deposit must be
+approved by the Bank. The Bank may impose a fee for early withdrawals.
+
+If the maturity date of your Fixed Deposit is a non-business day, the maturity date of your Fixed Deposit will be move
+to the next business day after the non-business day.
+
+A Fixed Deposit cannot be drawn against a personal check. Where appropriate and with the exercise of reasonable care
+{though the bank is not required to do so), the Bank will communicate to you prior to maturity of your Fixed Deposit.
+
+Any applicable government fees and charges, including RWT or NRW T may be debited by ABA to your Fixed Deposit
+or nominated account.
+
+11.12. Telephone or email instruction
+
+The Bank is not required to allow you, or any person authorized by you, to give an instruction on any account by
+phoning a branch of the Bank. If the Bank allows this, you agree that:
+
+= Funds may only be transferred between accounts in your name;
+= Enquiries may only be made about accounts in your name;
+
+= The Bank may refuse to act on any instruction in which the Bank is not satisfied with any instruction given by
+you or a person authorized by you;
+
+= The Bank is not required to establish the identity or authority of any person (including you) giving an instruction;
+
+= The Bank may impose a minimum transaction value in relation to any type of instruction and may change such
+minimum amount at any time without notice, and
+
+= You will indemnify the Bank against any loss that it suffers as a result of any instruction (including any
+misrepresentation by you or any person authorized, or claiming to be authorized, by you) except any loss that is
+a direct result of the negligence of the Bank.
+
+11.13. What to do if you have a problem or dispute?
+
+If you are ever unhappy about something we have done — or perhaps not done — please give us the opportunity to
+make things right. Where possible, we will attempt to resolve your complaint on the spot. If we need to take some
+additional time to get back to you, we will let you know. In the event we cannot resolve your concern when you first
+contact us, we will refer the complaint to our dedicated unit for Complaint and Dispute Resolution.
+
+Our dedicated Complaint Resolution Unit's aim is to respond to your complaint as quickly as possible, however some
+complaints may take longer to resolve than others. We will keep you informed on the progress of your complaint.
+
+Home < > ABA Bank | General Terms and Conditions 40
+You can contact us by:
+= Toll-Free number 1 800 203 203 for local calls and +855 98 203 203 for calls from overseas;
+= Email: info@ababank.com / complaintresolution@ababank.com; or
+= Going to our website www.ababank.com and searching for ‘Feedback Form’.
+
+If you are unhappy with the outcome of your complaint, then please refer to section 5.7 for additional actions (discrepancy,
+error, question or complaint) you can take.
+
+12. DISPUTE RESOLUTION
+
+These terms and conditions shall be governed by the laws of Cambodia. Any dispute arising out of or in connection with
+this these terms and conditions, including any question regarding its existence, validity, performance or termination,
+shall be referred to the court of competent jurisdiction in Cambodia if the subject matter of the dispute is less than
+USD 10,000. However, in case the subject matter of the dispute is greater than or equal to USD 10,000, the dispute
+shall be referred to and finally resolved by arbitration administered by the National Commercial Arbitration Centre of
+the Kingdom of Cambodia in accordance with the Arbitration Rules of the National Commercial Arbitration Centre
+(NCAC Arbitration Rules) being in force at the time of commencement of arbitration, and by reference in this clause,
+the NCAC Arbitration Rules are deemed to be incorporated as part of these terms and conditions. The seat of the
+arbitration shall be Phnom Penh, Cambodia. The tribunal shall consist of one arbitrator. The language of the arbitration
+shall be English.
+
+- The End -
+
+Home < > ABA Bank | General Terms and Conditions 41
+No. 141, 146, 148, 148ABCD, and 162A Preah Sihanouk Blvd, No.15 and 153ABC
+
+Street 278, and No. 171 Street Preah Trasak Paem, Sangkat Boeung Keng Kang |,
+
+Khan Boeung Keng Kang, Phnom Penh, Kingdom of Cambodia
+
+1.800 203 203 (Toll-free) | (+855) 23 225 333
+info@ababank.com | www.ababank.com
+
+ABA T&G V8_04062023
